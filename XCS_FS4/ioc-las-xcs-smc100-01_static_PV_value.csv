@@ -1,0 +1,107 @@
+PV_name,values,py_data_type
+IOC:LAS:XCS:SMC100:01:CLUST_1_0_0,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:CLUST_1_0_1,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:CLUST_1_0_2,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:CLUST_1_0_3,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:CLUST_1_1_0,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:CLUST_1_1_1,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:CLUST_1_1_2,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:CLUST_1_1_3,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:DAT_MBUF_FREE,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:DAT_MBUF_MAX,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:FD_CNT,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:FD_MAX,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:IFI_ERR_CNT,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:IFO_ERR_CNT,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:LOAD,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:MEM_BLK_FREE,1000000000.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:MEM_FREE,1000000000.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:MEM_USED,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:RECORD_CNT,113.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:SUSP_TASK_CNT,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:SYS_MBUF_FREE,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:SYS_MBUF_MAX,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:CA_UPD_TIME,15.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:FD_UPD_TIME,10.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:LOAD_UPD_TIME,20.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:MEM_UPD_TIME,10.0,<class 'float'>
+LAS:FS4:MMN:FQ:SET_HOMING_MODE,0,<class 'int'>
+LAS:FS4:MMN:FQ:SET_ZERO,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:FD_FREE,1000.0,<class 'float'>
+LAS:FS4:MMN:FQ:_CALC_STATUS,8.0,<class 'float'>
+LAS:FS4:MMN:FQ:SET_ZERO_1,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_0_State,4,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_1_State,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_2_State,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_3_State,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_4_State,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_5_State,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_6_State,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_7_State,0,<class 'int'>
+LAS:FS4:MMN:FQ:SET_ZERO_2,1,<class 'int'>
+LAS:FS4:MMN:FQ:SET_ZERO_3,0,<class 'int'>
+LAS:FS4:MMN:FQ:SET_ZERO_4,0,<class 'int'>
+LAS:FS4:MMN:FQ:SET_ZERO_5,1,<class 'int'>
+LAS:FS4:MMN:FQ:SET_ZERO_6,0,<class 'int'>
+LAS:FS4:MMN:FQ:STATUS,8,<class 'int'>
+IOC:LAS:XCS:SMC100:01:ACCESS,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_0_Status,4,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_1_Status,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_2_Status,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_3_Status,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_4_Status,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_5_Status,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_6_Status,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_7_Status,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_rebootStatus,4,<class 'int'>
+IOC:LAS:XCS:SMC100:01:SR_status,4,<class 'int'>
+IOC:LAS:XCS:SMC100:01ACCESS,0,<class 'int'>
+IOC:LAS:XCS:SMC100:01FBCK,2,<class 'int'>
+IOC:LAS:XCS:SMC100:01:APP_DIR1,/reg/g/pcds/epics/ioc/common/smc100/R1.,<class 'str'>
+IOC:LAS:XCS:SMC100:01:APP_DIR2,0.1,<class 'str'>
+IOC:LAS:XCS:SMC100:01:BOOTLINE1,<Unimplemented>,<class 'str'>
+IOC:LAS:XCS:SMC100:01:BOOTLINE2,,<class 'str'>
+IOC:LAS:XCS:SMC100:01:BOOTLINE3,,<class 'str'>
+IOC:LAS:XCS:SMC100:01:BOOTLINE4,,<class 'str'>
+IOC:LAS:XCS:SMC100:01:BOOTLINE5,,<class 'str'>
+IOC:LAS:XCS:SMC100:01:BOOTLINE6,,<class 'str'>
+IOC:LAS:XCS:SMC100:01:BSP_REV,<Unimplemented>,<class 'str'>
+IOC:LAS:XCS:SMC100:01:EPICS_VERS,EPICS R3.14.12.2-0.1.0 $Date: Mon 2011-,<class 'str'>
+IOC:LAS:XCS:SMC100:01:HOSTNAME,ioc-las-xcs-srv04,<class 'str'>
+IOC:LAS:XCS:SMC100:01:KERNEL_VERS,<Unimplemented>,<class 'str'>
+IOC:LAS:XCS:SMC100:01:STARTTOD,07/05/2023 14:59:13,<class 'str'>
+IOC:LAS:XCS:SMC100:01:ST_SCRIPT1,var startup not found,<class 'str'>
+IOC:LAS:XCS:SMC100:01:ST_SCRIPT2,var st not found,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_0_Name,ioc-las-xcs-smc100-01,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_0_StatusStr,Ok,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_0_Time,Fri Oct 20 12:15:42,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_1_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_1_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_1_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_2_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_2_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_2_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_3_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_3_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_3_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_4_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_4_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_4_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_5_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_5_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_5_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_6_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_6_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_6_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_7_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_7_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_7_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_rebootStatusStr,Ok,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_rebootTime,Wed Jul 05 02:59:13,<class 'str'>
+IOC:LAS:XCS:SMC100:01:SR_statusStr,Ok,<class 'str'>
+LAS:FS4:MMN:FQ:FW_MEANS,+,<class 'str'>
+LAS:FS4:MMN:FQ:MODEL,NA,<class 'str'>
+LAS:FS4:MMN:FQ:REV_MEANS,-,<class 'str'>
+IOC:LAS:XCS:SMC100:01:READACF,0.0,<class 'float'>
+IOC:LAS:XCS:SMC100:01:SYSRESET,0.0,<class 'float'>
+LAS:FS4:MMN:FQ,0.1005,<class 'float'>

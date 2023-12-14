@@ -1,0 +1,66 @@
+PV_name,values,py_data_type
+LAS:FS14:MMN:FQSR_recentlyStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_rebootStatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_rebootTime,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQSR_statusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_0_Name,Not In Use,<class 'str'>
+LAS:FS14:MMN:FQSR_0_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_0_Time,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQSR_1_Name,Not In Use,<class 'str'>
+LAS:FS14:MMN:FQSR_1_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_1_Time,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQSR_2_Name,Not In Use,<class 'str'>
+LAS:FS14:MMN:FQSR_2_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_2_Time,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQSR_3_Name,Not In Use,<class 'str'>
+LAS:FS14:MMN:FQSR_3_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_3_Time,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQSR_4_Name,Not In Use,<class 'str'>
+LAS:FS14:MMN:FQSR_4_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_4_Time,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQSR_5_Name,Not In Use,<class 'str'>
+LAS:FS14:MMN:FQSR_5_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_5_Time,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQSR_6_Name,Not In Use,<class 'str'>
+LAS:FS14:MMN:FQSR_6_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_6_Time,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQSR_7_Name,Not In Use,<class 'str'>
+LAS:FS14:MMN:FQSR_7_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:MMN:FQSR_7_Time,Not yet saved,<class 'str'>
+LAS:FS14:MMN:FQ:FW_MEANS,+,<class 'str'>
+LAS:FS14:MMN:FQ:REV_MEANS,-,<class 'str'>
+LAS:FS14:MMN:FQSR_heartbeat,0,<class 'int'>
+LAS:FS14:MMN:FQSR_i_am_alive,1,<class 'int'>
+LAS:FS14:MMN:FQSR_deadIfZero,0,<class 'int'>
+LAS:FS14:MMN:FQ:SET_ZERO,0,<class 'int'>
+LAS:FS14:MMN:FQ:STATUS,8,<class 'int'>
+LAS:FS14:MMN:FQSR_rebootStatus,0,<class 'int'>
+LAS:FS14:MMN:FQSR_status,0,<class 'int'>
+LAS:FS14:MMN:FQSR_0_Status,0,<class 'int'>
+LAS:FS14:MMN:FQSR_1_Status,0,<class 'int'>
+LAS:FS14:MMN:FQSR_2_Status,0,<class 'int'>
+LAS:FS14:MMN:FQSR_3_Status,0,<class 'int'>
+LAS:FS14:MMN:FQSR_4_Status,0,<class 'int'>
+LAS:FS14:MMN:FQSR_5_Status,0,<class 'int'>
+LAS:FS14:MMN:FQSR_6_Status,0,<class 'int'>
+LAS:FS14:MMN:FQSR_7_Status,0,<class 'int'>
+LAS:FS14:MMN:FQOffset,0.0,<class 'float'>
+LAS:FS14:MMN:FQResolution,9.77e-05,<class 'float'>
+LAS:FS14:MMN:FQ,1.15975817589878,<class 'float'>
+LAS:FS14:MMN:FQ:SET_ZERO_1,0,<class 'int'>
+LAS:FS14:MMN:FQ:SET_HOMING_MODE,0,<class 'int'>
+LAS:FS14:MMN:FQ:_CALC_STATUS,8.0,<class 'float'>
+LAS:FS14:MMN:FQSR_0_State,0,<class 'int'>
+LAS:FS14:MMN:FQSR_1_State,0,<class 'int'>
+LAS:FS14:MMN:FQSR_2_State,0,<class 'int'>
+LAS:FS14:MMN:FQSR_3_State,0,<class 'int'>
+LAS:FS14:MMN:FQSR_4_State,0,<class 'int'>
+LAS:FS14:MMN:FQSR_5_State,0,<class 'int'>
+LAS:FS14:MMN:FQSR_6_State,0,<class 'int'>
+LAS:FS14:MMN:FQSR_7_State,0,<class 'int'>
+LAS:FS14:MMN:FQ:SET_ZERO_2,1,<class 'int'>
+LAS:FS14:MMN:FQ:SET_ZERO_3,0,<class 'int'>
+LAS:FS14:MMN:FQ:SET_ZERO_4,0,<class 'int'>
+LAS:FS14:MMN:FQ:SET_ZERO_5,1,<class 'int'>
+LAS:FS14:MMN:FQ:SET_ZERO_6,0,<class 'int'>
+LAS:FS14:MMN:FQDirection,0,<class 'int'>

@@ -1,0 +1,100 @@
+{
+  "version": 0,
+  "root": {
+    "name": "root",
+    "description": null,
+    "tags": null,
+    "configs": [
+      {
+        "PVConfiguration": {
+          "name": null,
+          "description": null,
+          "tags": null,
+          "by_pv": {
+            "IOC:LAS:LHN:SR620:04:SR_i_am_alive": [
+              {
+                "Equals": {
+                  "name": "untitled",
+                  "description": null,
+                  "invert": false,
+                  "reduce_period": null,
+                  "reduce_method": "average",
+                  "string": false,
+                  "severity_on_failure": 2,
+                  "if_disconnected": 2,
+                  "value_dynamic": null,
+                  "value": 1.0,
+                  "rtol": null,
+                  "atol": null
+                }
+              }
+            ],
+            "LAS:FS14:CNT:TI:B:GetTrigThreshold": [
+              {
+                "Equals": {
+                  "name": "untitled",
+                  "description": null,
+                  "invert": false,
+                  "reduce_period": null,
+                  "reduce_method": "average",
+                  "string": false,
+                  "severity_on_failure": 2,
+                  "if_disconnected": 2,
+                  "value_dynamic": null,
+                  "value": "-0.2",
+                  "rtol": null,
+                  "atol": null
+                }
+              },
+              {
+                "Equals": {
+                  "name": "untitled",
+                  "description": null,
+                  "invert": false,
+                  "reduce_period": null,
+                  "reduce_method": "average",
+                  "string": null,
+                  "severity_on_failure": 2,
+                  "if_disconnected": 2,
+                  "value_dynamic": {
+                    "EpicsValue": {
+                      "value": -0.2,
+                      "reduce_period": null,
+                      "reduce_method": "average",
+                      "string": null,
+                      "pvname": "LAS:FS11:CNT:TI:B:GetTrigThreshold"
+                    }
+                  },
+                  "value": 0.0,
+                  "rtol": null,
+                  "atol": null
+                }
+              }
+            ],
+            "LAS:FS14:CNT:TI:MeasOffset": [
+              {
+                "Equals": {
+                  "name": "untitled",
+                  "description": null,
+                  "invert": false,
+                  "reduce_period": null,
+                  "reduce_method": "average",
+                  "string": false,
+                  "severity_on_failure": 2,
+                  "if_disconnected": 2,
+                  "value_dynamic": null,
+                  "value": "5e-05",
+                  "rtol": null,
+                  "atol": null
+                }
+              }
+            ]
+          },
+          "shared": []
+        }
+      }
+    ],
+    "values": {},
+    "mode": "all"
+  }
+}
