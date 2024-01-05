@@ -1,3 +1,14 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+This package contains all the functions needed for the 
+intra_hutch and inter_hutch comparisions. Use it by
+"import config".
+
+by: Rizheng Jiang 01/04/2024
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+
 import json
 import pandas as pd
 import copy
@@ -16,7 +27,7 @@ def get_PV_values(No: int, pvlist: str, PV: dict):
     pytype = []
     
     for i in df[0]:
-        a = caget(i) # rename a
+        a = caget(i) 
         if isinstance(a, (float, int, str)):
             names.append(i)
             values.append(a)

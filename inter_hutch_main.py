@@ -1,3 +1,17 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+inter_hutch_main.py
+
+Purpose: Create a JSON file for ATEF to sanity-check if 
+static PVs in one hutch and their counterparts in another
+hutch are the same. This program will retrieve the current
+PVs values using caget() and compare them using the JSON
+config from another hutch.
+
+by: Rizheng Jiang 01/04/2024
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 import json
 import subprocess
 

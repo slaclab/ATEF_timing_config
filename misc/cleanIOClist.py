@@ -1,3 +1,13 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+cleanIOClist.py
+
+Purpose: This program will clean the data from the 
+raw output file containing all the IOC in a hutch.
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+
 import csv
 
 # Read data from the input file
