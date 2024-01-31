@@ -36,15 +36,25 @@ number_interhutch = number_interhutch.strip()
 
 subprocess.run(["mkdir", "-p", "interhutch/" + number_interhutch  + "_" + hutch1 + "_" + hutch2])
 
+hutch_config1 = input("Enter hutch 1 configuration file directory: ")
+hutch_config2 = input("Enter hutch 2 configuration file directory: ")
 
+#with open(hutch1 + "/" + hutch1 + ".json", 'r') as openfile1:
+    #config1 = json.load(openfile1)
 
-with open(hutch1 + "/" + hutch1 + ".json", 'r') as openfile1:
+with open(hutch_config1, 'r') as openfile1:
     config1 = json.load(openfile1)
     
-with open(hutch2 + "/" + hutch2 + ".json", 'r') as openfile2:
+#with open(hutch2 + "/" + hutch2 + ".json", 'r') as openfile2:
+    #config2 = json.load(openfile2)
+
+with open(hutch_config2, 'r') as openfile2:
     config2 = json.load(openfile2)
 
-with open(hutch1 + "/" + hutch1 + ".json", 'r') as openfile1:
+#with open(hutch1 + "/" + hutch1 + ".json", 'r') as openfile1:
+    #config3 = json.load(openfile1)
+    
+with open(hutch_config1, 'r') as openfile1:
     config3 = json.load(openfile1)
     
 with open('SR620_test.json', 'r') as openfile:

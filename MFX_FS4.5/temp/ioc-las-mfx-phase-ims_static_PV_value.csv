@@ -58,7 +58,7 @@ LAS:FS45:MMS:PH:ST,0,<class 'int'>
 LAS:FS45:MMS:PH:VC,0,<class 'int'>
 LAS:FS45:MMS:PH:CLEAR_ER,0,<class 'int'>
 LAS:FS45:MMS:PH:CLEAR_ST,0,<class 'int'>
-LAS:FS45:MMS:PH:EXE_PG,0,<class 'int'>
+LAS:FS45:MMS:PH:EXE_PG,1,<class 'int'>
 LAS:FS45:MMS:PH:SAVE,0,<class 'int'>
 LAS:FS45:MMS:PH:SET_CM,0,<class 'int'>
 LAS:FS45:MMS:PH:SET_DE,0,<class 'int'>
@@ -77,7 +77,7 @@ LAS:FS45:MMS:PH:STOP,0,<class 'int'>
 LAS:FS45:MMS:PH:TOGGLE_HC,1,<class 'int'>
 LAS:FS45:MMS:PH:ZERO_POS,0,<class 'int'>
 LAS:FS45:IOC:MMS:PH:FD_FREE,1000.0,<class 'float'>
-LAS:FS45:MMS:PH:SAVED_P,8235.642889968685,<class 'float'>
+LAS:FS45:MMS:PH:SAVED_P,5192.652469923642,<class 'float'>
 LAS:FS45:MMS:PH:_CALC_STATUS,8.0,<class 'float'>
 LAS:FS45:IOC:MMS:PH:UpdateEvtSeq,1.0,<class 'float'>
 LAS:FS45:MMS:PH:SAVED_HC,5.0,<class 'float'>
@@ -98,8 +98,8 @@ LAS:FS45:MMS:PH:UPDATE_STATUS,0,<class 'int'>
 LAS:FS45:MMS:PH:A,499000000,<class 'int'>
 LAS:FS45:MMS:PH:BD_L,96,<class 'int'>
 LAS:FS45:MMS:PH:BY_L,1,<class 'int'>
-LAS:FS45:MMS:PH:C1,-47253,<class 'int'>
-LAS:FS45:MMS:PH:C2,0,<class 'int'>
+LAS:FS45:MMS:PH:C1,-241556,<class 'int'>
+LAS:FS45:MMS:PH:C2,10,<class 'int'>
 LAS:FS45:MMS:PH:CE_L,1,<class 'int'>
 LAS:FS45:MMS:PH:CK_L,0,<class 'int'>
 LAS:FS45:MMS:PH:CM_L,0,<class 'int'>
@@ -121,8 +121,8 @@ LAS:FS45:MMS:PH:EE_L,0,<class 'int'>
 LAS:FS45:MMS:PH:EF_L,0,<class 'int'>
 LAS:FS45:MMS:PH:EL,512,<class 'int'>
 LAS:FS45:MMS:PH:EM_L,2,<class 'int'>
-LAS:FS45:MMS:PH:ER,63,<class 'int'>
-LAS:FS45:MMS:PH:HB,5387385,<class 'int'>
+LAS:FS45:MMS:PH:ER,0,<class 'int'>
+LAS:FS45:MMS:PH:HB,75145,<class 'int'>
 LAS:FS45:MMS:PH:HC,5,<class 'int'>
 LAS:FS45:MMS:PH:HT,500,<class 'int'>
 LAS:FS45:MMS:PH:I10_L,0,<class 'int'>
@@ -132,13 +132,13 @@ LAS:FS45:MMS:PH:I1_L,0,<class 'int'>
 LAS:FS45:MMS:PH:I2_L,0,<class 'int'>
 LAS:FS45:MMS:PH:I3_L,0,<class 'int'>
 LAS:FS45:MMS:PH:I4_L,0,<class 'int'>
-LAS:FS45:MMS:PH:I5,1023,<class 'int'>
+LAS:FS45:MMS:PH:I5,0,<class 'int'>
 LAS:FS45:MMS:PH:I6_L,0,<class 'int'>
 LAS:FS45:MMS:PH:I9_L,0,<class 'int'>
 LAS:FS45:MMS:PH:IF_L,0,<class 'int'>
-LAS:FS45:MMS:PH:IH,15,<class 'int'>
-LAS:FS45:MMS:PH:IL,15,<class 'int'>
-LAS:FS45:MMS:PH:IN,255,<class 'int'>
+LAS:FS45:MMS:PH:IH,0,<class 'int'>
+LAS:FS45:MMS:PH:IL,0,<class 'int'>
+LAS:FS45:MMS:PH:IN,0,<class 'int'>
 LAS:FS45:MMS:PH:IT,0,<class 'int'>
 LAS:FS45:MMS:PH:JE_L,0,<class 'int'>
 LAS:FS45:MMS:PH:LK_L,0,<class 'int'>
@@ -146,9 +146,9 @@ LAS:FS45:MMS:PH:LM_L,1,<class 'int'>
 LAS:FS45:MMS:PH:MS,256,<class 'int'>
 LAS:FS45:MMS:PH:MT,0,<class 'int'>
 LAS:FS45:MMS:PH:NE_L,0,<class 'int'>
-LAS:FS45:MMS:PH:NS,118,<class 'int'>
-LAS:FS45:MMS:PH:P,-47253,<class 'int'>
-LAS:FS45:MMS:PH:P1,-47253,<class 'int'>
+LAS:FS45:MMS:PH:NS,563,<class 'int'>
+LAS:FS45:MMS:PH:P,-241556,<class 'int'>
+LAS:FS45:MMS:PH:P1,-241556,<class 'int'>
 LAS:FS45:MMS:PH:PC,0,<class 'int'>
 LAS:FS45:MMS:PH:PM_L,0,<class 'int'>
 LAS:FS45:MMS:PH:PU_L,0,<class 'int'>
@@ -156,10 +156,10 @@ LAS:FS45:MMS:PH:PY_L,1,<class 'int'>
 LAS:FS45:MMS:PH:QD_L,0,<class 'int'>
 LAS:FS45:MMS:PH:R1,0,<class 'int'>
 LAS:FS45:MMS:PH:R2,0,<class 'int'>
-LAS:FS45:MMS:PH:R3,-47257,<class 'int'>
-LAS:FS45:MMS:PH:R4,-47249,<class 'int'>
+LAS:FS45:MMS:PH:R3,-241560,<class 'int'>
+LAS:FS45:MMS:PH:R4,-241552,<class 'int'>
 LAS:FS45:MMS:PH:RC,25,<class 'int'>
-LAS:FS45:MMS:PH:SAVED_RAW,-513824,<class 'int'>
+LAS:FS45:MMS:PH:SAVED_RAW,-323971,<class 'int'>
 LAS:FS45:MMS:PH:SD,4,<class 'int'>
 LAS:FS45:MMS:PH:SF,15,<class 'int'>
 LAS:FS45:MMS:PH:SM_L,0,<class 'int'>
@@ -249,7 +249,7 @@ LAS:FS45:MMS:PH:SET_ES,0,<class 'int'>
 LAS:FS45:MMS:PH:SET_FC,0,<class 'int'>
 LAS:FS45:MMS:PH:SET_FM,0,<class 'int'>
 LAS:FS45:MMS:PH:SET_LM,0,<class 'int'>
-LAS:FS45:MMS:PH:RUN_PG,0,<class 'int'>
+LAS:FS45:MMS:PH:RUN_PG,1,<class 'int'>
 LAS:FS45:IOC:MMS:PH:APP_DIR1,/reg/g/pcds/epics/ioc/las/ims/R0.4.5,<class 'str'>
 LAS:FS45:IOC:MMS:PH:APP_DIR2,,<class 'str'>
 LAS:FS45:IOC:MMS:PH:BOOTLINE1,<Unimplemented>,<class 'str'>
@@ -262,27 +262,27 @@ LAS:FS45:IOC:MMS:PH:BSP_REV,<Unimplemented>,<class 'str'>
 LAS:FS45:IOC:MMS:PH:EPICS_VERS,EPICS R3.14.12.2-0.1.0 $Date: Mon 2011-,<class 'str'>
 LAS:FS45:IOC:MMS:PH:HOSTNAME,ioc-las-srv04,<class 'str'>
 LAS:FS45:IOC:MMS:PH:KERNEL_VERS,<Unimplemented>,<class 'str'>
-LAS:FS45:IOC:MMS:PH:STARTTOD,10/20/2023 10:59:52,<class 'str'>
+LAS:FS45:IOC:MMS:PH:STARTTOD,01/22/2024 21:55:33,<class 'str'>
 LAS:FS45:IOC:MMS:PH:ST_SCRIPT1,var startup not found,<class 'str'>
 LAS:FS45:IOC:MMS:PH:ST_SCRIPT2,var st not found,<class 'str'>
-LAS:FS45:MMS:PH:BP,"0, 0",<class 'str'>
+LAS:FS45:MMS:PH:BP,,<class 'str'>
 LAS:FS45:MMS:PH:CUSTOM,,<class 'str'>
 LAS:FS45:MMS:PH:DN,"""1""",<class 'str'>
 LAS:FS45:MMS:PH:MD,MA,<class 'str'>
 LAS:FS45:MMS:PH:PN,MDI3CRL14A4-EQ,<class 'str'>
 LAS:FS45:MMS:PH:S1,"0, 0, 0",<class 'str'>
-LAS:FS45:MMS:PH:S10,"0, 0, 0",<class 'str'>
-LAS:FS45:MMS:PH:S11,"0, 0, 0",<class 'str'>
-LAS:FS45:MMS:PH:S12,"0, 0, 0",<class 'str'>
-LAS:FS45:MMS:PH:S13,"60, 0",<class 'str'>
+LAS:FS45:MMS:PH:S10,,<class 'str'>
+LAS:FS45:MMS:PH:S11,,<class 'str'>
+LAS:FS45:MMS:PH:S12,,<class 'str'>
+LAS:FS45:MMS:PH:S13,,<class 'str'>
 LAS:FS45:MMS:PH:S2,"0, 0, 0",<class 'str'>
 LAS:FS45:MMS:PH:S3,"0, 0, 0",<class 'str'>
 LAS:FS45:MMS:PH:S4,"0, 0, 0",<class 'str'>
-LAS:FS45:MMS:PH:S5,"9, 0",<class 'str'>
-LAS:FS45:MMS:PH:S7,"49, 0",<class 'str'>
-LAS:FS45:MMS:PH:S8,"49, 0",<class 'str'>
-LAS:FS45:MMS:PH:S9,"0, 0, 0",<class 'str'>
-LAS:FS45:MMS:PH:SAVED_TS,Nov 02 14:23:12 2023,<class 'str'>
+LAS:FS45:MMS:PH:S5,,<class 'str'>
+LAS:FS45:MMS:PH:S7,,<class 'str'>
+LAS:FS45:MMS:PH:S8,,<class 'str'>
+LAS:FS45:MMS:PH:S9,,<class 'str'>
+LAS:FS45:MMS:PH:SAVED_TS,Jan 28 20:01:22 2024,<class 'str'>
 LAS:FS45:MMS:PH:SN,192220114,<class 'str'>
 LAS:FS45:MMS:PH:TC,,<class 'str'>
 LAS:FS45:MMS:PH:TI,,<class 'str'>
@@ -292,7 +292,7 @@ LAS:FS45:MMS:PH:TT,,<class 'str'>
 LAS:FS45:MMS:PH:VR,3.015,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_0_Name,ioc-las-mfx-phase-ims,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_0_StatusStr,32 values not saved,<class 'str'>
-LAS:FS45:IOC:MMS:PH:SR_0_Time,Thu Nov 02 02:23:09,<class 'str'>
+LAS:FS45:IOC:MMS:PH:SR_0_Time,Sun Jan 28 08:01:15,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_1_Name,Not In Use,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_1_StatusStr,Status unknown,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_1_Time,Not yet saved,<class 'str'>
@@ -315,7 +315,7 @@ LAS:FS45:IOC:MMS:PH:SR_7_Name,Not In Use,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_7_StatusStr,Status unknown,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_7_Time,Not yet saved,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_rebootStatusStr,.sav file contained an error message,<class 'str'>
-LAS:FS45:IOC:MMS:PH:SR_rebootTime,Fri Oct 20 10:59:52,<class 'str'>
+LAS:FS45:IOC:MMS:PH:SR_rebootTime,Mon Jan 22 09:55:33,<class 'str'>
 LAS:FS45:IOC:MMS:PH:SR_statusStr,32 values not saved,<class 'str'>
 LAS:FS45:MMS:PH:FW_MEANS,+,<class 'str'>
 LAS:FS45:MMS:PH:MODEL,NA,<class 'str'>
@@ -341,4 +341,4 @@ LAS:FS45:MMS:PH:SET_TR,,<class 'str'>
 LAS:FS45:MMS:PH:SET_TT,,<class 'str'>
 LAS:FS45:IOC:MMS:PH:READACF,0.0,<class 'float'>
 LAS:FS45:IOC:MMS:PH:SYSRESET,0.0,<class 'float'>
-LAS:FS45:MMS:PH,8235.647964585944,<class 'float'>
+LAS:FS45:MMS:PH,5192.653126865254,<class 'float'>

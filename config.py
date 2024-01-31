@@ -17,6 +17,7 @@ import time
 import random
 import subprocess
 from tqdm import tqdm
+from datetime import datetime
 
 #Get PV values once
 def get_PV_values(No: int, pvlist: str, PV: dict):
@@ -59,6 +60,12 @@ def find_static(list1: int, list2: int, PV: dict, pvlist_new: str, folder: str, 
     
 #Configure the JSON file for one IOC using a PV dictionary
 def configure(hutch: str, ioc: str, iocindex: int, progress: float, PV: dict, folder: str):
+
+    # Get the current date and time
+    current_datetime = datetime.now()
+    # Format the date as YYYYMMDDHHMM
+    date = current_datetime.strftime("%Y%m%d")
+    
     # Opening JSON file
     with open('SR620_test.json', 'r') as openfile:
         # Reading from json file
@@ -68,12 +75,14 @@ def configure(hutch: str, ioc: str, iocindex: int, progress: float, PV: dict, fo
             # Reading from json file
             json_object = json.load(openfile)
     else:
-        with open(folder + hutch + '.json', 'r') as openfile:
+        with open(folder + date + hutch + '.json', 'r') as openfile:
             # Reading from json file
             json_object = json.load(openfile)
     
     
     json_object["root"]["configs"].append(json_object["root"]["configs"][0])
+    print("iocindex length: ", len(json_object["root"]["configs"]), iocindex)
+    
     json_object["root"]["configs"][iocindex+1]["PVConfiguration"]["name"] = ioc
     
     PVs = default_json_object["root"]["configs"][0]["PVConfiguration"]["by_pv"]
@@ -91,7 +100,9 @@ def configure(hutch: str, ioc: str, iocindex: int, progress: float, PV: dict, fo
 
     json_object["root"]["configs"][iocindex+1]["PVConfiguration"]["by_pv"] = PVdictionary
     
-    with open(folder + hutch + ".json", "w") as outfile:
+
+    
+    with open(folder + date + hutch + ".json", "w") as outfile:
         json.dump(json_object, outfile, indent=2)
 
 

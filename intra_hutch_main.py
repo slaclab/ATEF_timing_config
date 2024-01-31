@@ -22,18 +22,16 @@ import os
 # Gather user inputs for comparision and sifting
 print("Hutch code list: \n\nCXI_FS5: 5  \nMEC_FS6: 6  \nMFX_FS4.5: 45  \nNEH_FS11: 11 \nNEH_FS14: 14  \nXCS_FS4: 4\n")
 hutch_code = input("Enter hutch code: ")
-hutch_dict = 
-{
+hutch_dict = {
 "5" : "CXI_FS5", 
 "6" : "MEC_FS6",  
 "45" : "MFX_FS4.5",  
 "11" : "NEH_FS11", 
 "14" : "NEH_FS14",  
-"4" : "XCS_FS4"
-}
+"4" : "XCS_FS4"}
 
 hutch = hutch_dict[hutch_code]
-folder= os.getcwd() + hutch + "/"
+folder= os.getcwd() + "/" + hutch + "/"
 ioc_path = folder + hutch + '_IOC.txt'
 
 subprocess.run(["mkdir", "-p", folder + "temp/"])
@@ -68,24 +66,26 @@ with open(ioc_path, 'r') as readtxt:
 
 
 
+#Getting date infomation
+now = datetime.now()
+date = now.strftime("%Y%m%d")
+date_time = now.strftime("%m/%d/%Y, %H:%M:%S")
 
 
 #Add metadata and cleanup       
-with open(folder + hutch + ".json", 'r') as openfile:
+with open(folder + date + hutch + ".json", 'r') as openfile:
     # Reading from json file
     config_template = json.load(openfile)   
 
 #Adding hutch name in JSON    
 if config_template["root"]["name"] != hutch:
     config_template["root"]["name"] = hutch
-
-#Adding timestamp in JSON
-now = datetime.now()
-date_time = now.strftime("%m/%d/%Y, %H:%M:%S")
-config_template["root"]["description"] = date_time
     
+#Adding timestamp in JSON
+config_template["root"]["description"] = date_time
+
 del config_template["root"]["configs"][0]
-with open(folder + hutch + ".json", "w") as outfile:
+with open(folder + date + hutch + ".json", "w") as outfile:
     json.dump(config_template, outfile, indent=2)
 
 

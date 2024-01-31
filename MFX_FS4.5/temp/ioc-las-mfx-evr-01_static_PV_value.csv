@@ -1,21 +1,21 @@
 PV_name,values,py_data_type
-EVR:LAS:MFX:01:TRIG0:BW_TDES_CALC,889436.97478992,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:FW_TDLY_CALC,104739.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:BW_TDES_CALC,889411.7647058825,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:FW_TDLY_CALC,105637.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:FW_TDLY_SCALE_CALC,1.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TDLY,104739.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TDLY,105637.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:FW_TDES_TICK_CALC,0.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TDES_CALC_LOW,9277.30093038,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:BW_TDLY,104739.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:BW_TDES,889436.974844335,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TDES_CALC_LOW,1705.8723585350037,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:BW_TDLY,105637.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:BW_TDES,889411.7647603,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:TWID2,1189.99999993455,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:BW_TDES_CALC,7408764.7058824,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:FW_TDLY_CALC,881439.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:BW_TDES_CALC,889460.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:FW_TDLY_CALC,105642.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:FW_TDLY_SCALE_CALC,1.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:TDLY,881439.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:TDLY,105642.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:FW_TDES_TICK_CALC,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:TDES_CALC_LOW,1714.2757198800048,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:BW_TDLY,881439.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:BW_TDES,7408764.706295336,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:BW_TDLY,105642.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:BW_TDES,889462.18492837,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:TWID2,1189.99999993455,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:BW_TDES_CALC,939400.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:FW_TDLY_CALC,110685.0,<class 'float'>
@@ -26,14 +26,14 @@ EVR:LAS:MFX:01:TRIG2:TDES_CALC_LOW,9277.30093038,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:BW_TDLY,110685.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:BW_TDES,939403.3614017051,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:TWID2,594.999999967275,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:BW_TDES_CALC,884000.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:FW_TDLY_CALC,104092.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:BW_TDES_CALC,880000.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:FW_TDLY_CALC,103616.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:FW_TDLY_SCALE_CALC,1.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:TDLY,104092.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:TDLY,103616.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:FW_TDES_TICK_CALC,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:TDES_CALC_LOW,9277.30093038,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:BW_TDLY,104092.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:BW_TDES,884000.0000541201,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:BW_TDLY,103616.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:BW_TDES,880000.0000539001,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:TWID2,10709.99999941095,<class 'float'>
 EVR:LAS:MFX:01:TRIG4:BW_TDES_CALC,939400.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG4:FW_TDLY_CALC,110685.0,<class 'float'>
@@ -266,10 +266,8 @@ IOC:LAS:MFX:EVR:01:SR_rebootTime,Wed Dec 13 16:16:48,<class 'str'>
 IOC:LAS:MFX:EVR:01:SR_statusStr,2 values not saved,<class 'str'>
 IOC:LAS:MFX:EVR:01:SR_0_Name,autoSettings,<class 'str'>
 IOC:LAS:MFX:EVR:01:SR_0_StatusStr,Ok,<class 'str'>
-IOC:LAS:MFX:EVR:01:SR_0_Time,Thu Dec 14 10:17:42,<class 'str'>
 IOC:LAS:MFX:EVR:01:SR_1_Name,ioc-las-mfx-evr-01,<class 'str'>
 IOC:LAS:MFX:EVR:01:SR_1_StatusStr,2 values not saved,<class 'str'>
-IOC:LAS:MFX:EVR:01:SR_1_Time,Thu Dec 14 10:17:42,<class 'str'>
 IOC:LAS:MFX:EVR:01:SR_2_Name,Not In Use,<class 'str'>
 IOC:LAS:MFX:EVR:01:SR_2_StatusStr,Status unknown,<class 'str'>
 IOC:LAS:MFX:EVR:01:SR_2_Time,Not yet saved,<class 'str'>
@@ -301,10 +299,10 @@ EVR:LAS:MFX:01:TRIG0:FW_EC_SEQ_ENAB,1,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:LOCKED,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:TYPE,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:STARTING_UP,0,<class 'int'>
-EVR:LAS:MFX:01:TRIG1:TCTL,0,<class 'int'>
+EVR:LAS:MFX:01:TRIG1:TCTL,1,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:TPOL,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:TPOL_ITN,0,<class 'int'>
-EVR:LAS:MFX:01:TRIG1:TCTL_ITN,0,<class 'int'>
+EVR:LAS:MFX:01:TRIG1:TCTL_ITN,1,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:FW_EC_SEQ_ENAB,1,<class 'int'>
 EVR:LAS:MFX:01:TRIG2:LOCKED,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG2:TYPE,0,<class 'int'>
@@ -317,10 +315,10 @@ EVR:LAS:MFX:01:TRIG2:FW_EC_SEQ_ENAB,1,<class 'int'>
 EVR:LAS:MFX:01:TRIG3:LOCKED,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG3:TYPE,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG3:STARTING_UP,0,<class 'int'>
-EVR:LAS:MFX:01:TRIG3:TCTL,1,<class 'int'>
+EVR:LAS:MFX:01:TRIG3:TCTL,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG3:TPOL,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG3:TPOL_ITN,0,<class 'int'>
-EVR:LAS:MFX:01:TRIG3:TCTL_ITN,1,<class 'int'>
+EVR:LAS:MFX:01:TRIG3:TCTL_ITN,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG3:FW_EC_SEQ_ENAB,1,<class 'int'>
 EVR:LAS:MFX:01:TRIG4:LOCKED,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG4:TYPE,0,<class 'int'>
@@ -554,18 +552,18 @@ IOC:LAS:MFX:EVR:01:SR_5_Status,0,<class 'int'>
 IOC:LAS:MFX:EVR:01:SR_6_Status,0,<class 'int'>
 IOC:LAS:MFX:EVR:01:SR_7_Status,0,<class 'int'>
 EVR:LAS:MFX:01:TRIG0:TWID,10000.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TDES,889436.97478992,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TDLY_TICKS,104739.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TDES_CALC_LOPR,9277.30093038,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:BW_TDLY_TICKS,104739.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TDES,889411.7647058825,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TDLY_TICKS,105637.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TDES_CALC_LOPR,1705.8723585350037,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:BW_TDLY_TICKS,105637.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:BW_DIS2,1.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:BW_TWID,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:FW_DIS2,1.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:TWID,10000.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:TDES,7408764.7058824,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:TDLY_TICKS,881439.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:TDES,889460.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:TDLY_TICKS,105642.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:TDES_CALC_LOPR,1714.2757198800048,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:BW_TDLY_TICKS,881439.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:BW_TDLY_TICKS,105642.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:BW_DIS2,1.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:BW_TWID,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:FW_DIS2,1.0,<class 'float'>
@@ -578,10 +576,10 @@ EVR:LAS:MFX:01:TRIG2:BW_DIS2,1.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:BW_TWID,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:FW_DIS2,1.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:TWID,90000.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:TDES,884000.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:TDLY_TICKS,104092.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:TDES,880000.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:TDLY_TICKS,103616.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:TDES_CALC_LOPR,9277.30093038,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:BW_TDLY_TICKS,104092.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:BW_TDLY_TICKS,103616.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:BW_DIS2,1.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:BW_TWID,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:FW_DIS2,1.0,<class 'float'>
@@ -697,15 +695,15 @@ EVR:LAS:MFX:01:LINK,1,<class 'int'>
 EVR:LAS:MFX:01:_CALC_STATUS,2.0,<class 'float'>
 EVR:LAS:MFX:01:LINKERR,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:INVARIANT_UPDATE,0.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TOFFSET_NS,109277.31093038,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TDLY_NS,880159.66385954,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:BW_TDLY_NS,880159.6639139551,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TOFFSET_NS,101705.882358535,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TDLY_NS,887705.8823473476,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:BW_TDLY_NS,887705.8824017651,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:BW_TWID_TICKS,1189.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:BW_TWIDCALC,9991.596639205001,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:INVARIANT_UPDATE,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:TOFFSET_NS,101714.28571988,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:TDLY_NS,7407050.42016252,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:BW_TDLY_NS,7407050.420575456,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:TDLY_NS,887745.71428012,<class 'float'>
+EVR:LAS:MFX:01:TRIG1:BW_TDLY_NS,887747.89920849,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:BW_TWID_TICKS,1189.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:BW_TWIDCALC,9991.596639205001,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:INVARIANT_UPDATE,0.0,<class 'float'>
@@ -716,8 +714,8 @@ EVR:LAS:MFX:01:TRIG2:BW_TWID_TICKS,594.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:BW_TWIDCALC,4991.59663893,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:INVARIANT_UPDATE,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:TOFFSET_NS,109277.31093038,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:TDLY_NS,874722.68906962,<class 'float'>
-EVR:LAS:MFX:01:TRIG3:BW_TDLY_NS,874722.6891237401,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:TDLY_NS,870722.68906962,<class 'float'>
+EVR:LAS:MFX:01:TRIG3:BW_TDLY_NS,870722.68912352,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:BW_TWID_TICKS,10709.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:BW_TWIDCALC,89991.59664360501,<class 'float'>
 EVR:LAS:MFX:01:TRIG4:INVARIANT_UPDATE,0.0,<class 'float'>
@@ -768,9 +766,9 @@ EVR:LAS:MFX:01:TRIGB:TDLY_NS,937694.117641465,<class 'float'>
 EVR:LAS:MFX:01:TRIGB:BW_TDLY_NS,937697.47904317,<class 'float'>
 EVR:LAS:MFX:01:TRIGB:BW_TWID_TICKS,118.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGB:BW_TWIDCALC,991.5966387100001,<class 'float'>
-IOC:LAS:MFX:EVR:01:FD_FREE,1009.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TEC,40,<class 'int'>
-EVR:LAS:MFX:01:TRIG0:EC_RBV,40,<class 'int'>
+IOC:LAS:MFX:EVR:01:FD_FREE,1008.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TEC,203,<class 'int'>
+EVR:LAS:MFX:01:TRIG0:EC_RBV,203,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:TEC,204,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:EC_RBV,204,<class 'int'>
 EVR:LAS:MFX:01:TRIG2:TEC,40,<class 'int'>
@@ -793,7 +791,7 @@ EVR:LAS:MFX:01:TRIGA:TEC,40,<class 'int'>
 EVR:LAS:MFX:01:TRIGA:EC_RBV,40,<class 'int'>
 EVR:LAS:MFX:01:TRIGB:TEC,203,<class 'int'>
 EVR:LAS:MFX:01:TRIGB:EC_RBV,203,<class 'int'>
-EVR:LAS:MFX:01:TRIG0:EVENT_ID,40,<class 'int'>
+EVR:LAS:MFX:01:TRIG0:EVENT_ID,203,<class 'int'>
 EVR:LAS:MFX:01:TRIG1:EVENT_ID,204,<class 'int'>
 EVR:LAS:MFX:01:TRIG2:EVENT_ID,40,<class 'int'>
 EVR:LAS:MFX:01:TRIG3:EVENT_ID,40,<class 'int'>
@@ -819,19 +817,16 @@ EVR:LAS:MFX:01:EVENT11_ID,43,<class 'int'>
 EVR:LAS:MFX:01:EVENT12_ID,44,<class 'int'>
 EVR:LAS:MFX:01:EVENT13_ID,45,<class 'int'>
 EVR:LAS:MFX:01:EVENT14_ID,46,<class 'int'>
-IOC:LAS:MFX:EVR:01:SR_0_State,4,<class 'int'>
-IOC:LAS:MFX:EVR:01:SR_1_State,4,<class 'int'>
 IOC:LAS:MFX:EVR:01:SR_2_State,0,<class 'int'>
 IOC:LAS:MFX:EVR:01:SR_3_State,0,<class 'int'>
 IOC:LAS:MFX:EVR:01:SR_4_State,0,<class 'int'>
 IOC:LAS:MFX:EVR:01:SR_5_State,0,<class 'int'>
 IOC:LAS:MFX:EVR:01:SR_6_State,0,<class 'int'>
 IOC:LAS:MFX:EVR:01:SR_7_State,0,<class 'int'>
-EVR:LAS:MFX:01:TRIG0:LSUB_EVSEL,40.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:LSUB_EVSEL,203.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:LSUB_TRGSEL,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:LSUB_EVSEL,204.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:LSUB_TRGSEL,0.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:CNT,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:LSUB_EVSEL,40.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:LSUB_TRGSEL,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:LSUB_EVSEL,40.0,<class 'float'>
@@ -852,9 +847,6 @@ EVR:LAS:MFX:01:TRIGA:LSUB_EVSEL,40.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGA:LSUB_TRGSEL,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGB:LSUB_EVSEL,203.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGB:LSUB_TRGSEL,0.0,<class 'float'>
-EVR:LAS:MFX:01:TRIGB:CNT,0.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:EVENTCNT,0.0,<class 'float'>
-EVR:LAS:MFX:01:TRIGB:EVENTCNT,0.0,<class 'float'>
 EVR:LAS:MFX:01:PATTERNN-3,0.0,<class 'float'>
 EVR:LAS:MFX:01:PATTERNDIAG,0.0,<class 'float'>
 EVR:LAS:MFX:01:PATTERN,0.0,<class 'float'>
@@ -867,9 +859,8 @@ EVR:LAS:MFX:01:PATTERND-1,0.0,<class 'float'>
 EVR:LAS:MFX:01:PATTERND-2,0.0,<class 'float'>
 EVR:LAS:MFX:01:PATTERND-3,0.0,<class 'float'>
 EVR:LAS:MFX:01:FIDUCIAL:PROC,0.0,<class 'float'>
-EVR:LAS:MFX:01:MODIFIER5,303694978.0,<class 'float'>
 EVR:LAS:MFX:01:FIDUCIALDIAG,0.0,<class 'float'>
-EVR:LAS:MFX:01:Triggers,101.0,<class 'float'>
+EVR:LAS:MFX:01:Triggers,507.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:147:Count,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:148:Count,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:149:Count,0.0,<class 'float'>
@@ -991,8 +982,6 @@ EVR:LAS:MFX:01:EventCode:196:Count,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:197:Count,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:198:Count,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:202:Count,0.0,<class 'float'>
-EVR:LAS:MFX:01:EventCode:203:Count,0.0,<class 'float'>
-EVR:LAS:MFX:01:EventCode:204:Count,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:205:Count,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:206:Count,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:207:Count,0.0,<class 'float'>
@@ -1097,8 +1086,6 @@ EVR:LAS:MFX:01:EventCode:26:Fiducial,0,<class 'int'>
 EVR:LAS:MFX:01:EventCode:36:Fiducial,0,<class 'int'>
 EVR:LAS:MFX:01:EventCode:56:Fiducial,0,<class 'int'>
 EVR:LAS:MFX:01:EventCode:66:Fiducial,0,<class 'int'>
-EVR:LAS:MFX:01:TRIG0:RATE,120.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:RATE,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:RATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:RATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG4:RATE,120.0,<class 'float'>
@@ -1108,9 +1095,6 @@ EVR:LAS:MFX:01:TRIG7:RATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG8:RATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG9:RATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGA:RATE,120.0,<class 'float'>
-EVR:LAS:MFX:01:TRIGB:RATE,0.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:EVENTRATE,120.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG1:EVENTRATE,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG2:EVENTRATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG3:EVENTRATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG4:EVENTRATE,120.0,<class 'float'>
@@ -1120,10 +1104,6 @@ EVR:LAS:MFX:01:TRIG7:EVENTRATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG8:EVENTRATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG9:EVENTRATE,120.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGA:EVENTRATE,120.0,<class 'float'>
-EVR:LAS:MFX:01:TRIGB:EVENTRATE,0.0,<class 'float'>
-EVR:LAS:MFX:01:EVENT1RATE,120.0,<class 'float'>
-EVR:LAS:MFX:01:EVENT2RATE,60.0,<class 'float'>
-EVR:LAS:MFX:01:EVENT3RATE,30.0,<class 'float'>
 EVR:LAS:MFX:01:EVENT4RATE,10.0,<class 'float'>
 EVR:LAS:MFX:01:EVENT5RATE,5.0,<class 'float'>
 EVR:LAS:MFX:01:EVENT6RATE,1.0,<class 'float'>
@@ -1137,9 +1117,6 @@ EVR:LAS:MFX:01:EVENT13RATE,1.0,<class 'float'>
 EVR:LAS:MFX:01:EVENT14RATE,0.5,<class 'float'>
 EVR:LAS:MFX:01:FIDUCIALRATE,360.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:1:Rate,360.0,<class 'float'>
-EVR:LAS:MFX:01:EventCode:140:Rate,120.0,<class 'float'>
-EVR:LAS:MFX:01:EventCode:141:Rate,60.0,<class 'float'>
-EVR:LAS:MFX:01:EventCode:142:Rate,30.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:143:Rate,10.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:144:Rate,5.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:145:Rate,1.0,<class 'float'>
@@ -1272,8 +1249,6 @@ EVR:LAS:MFX:01:EventCode:196:Rate,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:197:Rate,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:198:Rate,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:202:Rate,0.0,<class 'float'>
-EVR:LAS:MFX:01:EventCode:203:Rate,0.0,<class 'float'>
-EVR:LAS:MFX:01:EventCode:204:Rate,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:205:Rate,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:206:Rate,0.0,<class 'float'>
 EVR:LAS:MFX:01:EventCode:207:Rate,0.0,<class 'float'>
@@ -1290,7 +1265,7 @@ IOC:LAS:MFX:EVR:01:READACF,0.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:SYSRESET,0.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:SysReset,0.0,<class 'float'>
 EVR:LAS:MFX:01:LINKERRCNT,0.0,<class 'float'>
-EVR:LAS:MFX:01:TRIG0:TOFFSET,13004.0,<class 'float'>
+EVR:LAS:MFX:01:TRIG0:TOFFSET,12103.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:FW_SW2,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG0:BW_SW2,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIG1:TOFFSET,12104.0,<class 'float'>
@@ -1326,18 +1301,18 @@ EVR:LAS:MFX:01:TRIGA:BW_SW2,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGB:TOFFSET,12103.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGB:FW_SW2,0.0,<class 'float'>
 EVR:LAS:MFX:01:TRIGB:BW_SW2,0.0,<class 'float'>
-IOC:LAS:MFX:EVR:01:CA_CLNT_CNT,2.0,<class 'float'>
+IOC:LAS:MFX:EVR:01:CA_CLNT_CNT,3.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:RECORD_CNT,1509.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:FD_MAX,1024.0,<class 'float'>
-IOC:LAS:MFX:EVR:01:FD_CNT,15.0,<class 'float'>
+IOC:LAS:MFX:EVR:01:FD_CNT,16.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:CPU_CNT,32.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:SUSP_TASK_CNT,0.0,<class 'float'>
-IOC:LAS:MFX:EVR:01:MEM_USED,94822400.0,<class 'float'>
+IOC:LAS:MFX:EVR:01:MEM_USED,106270720.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:MEM_MAX,67453345792.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:PROCESS_ID,19244.0,<class 'float'>
 IOC:LAS:MFX:EVR:01:PARENT_ID,3616.0,<class 'float'>
 EVR:LAS:MFX:01:LINKERRRSTTOD,12/13/23 16:16:48,<class 'str'>
-EVR:LAS:MFX:01:TRIG0:EC_NAME,TS4 120Hz,<class 'str'>
+EVR:LAS:MFX:01:TRIG0:EC_NAME,MFX Laser On,<class 'str'>
 EVR:LAS:MFX:01:TRIG1:EC_NAME,Available,<class 'str'>
 EVR:LAS:MFX:01:TRIG2:EC_NAME,TS4 120Hz,<class 'str'>
 EVR:LAS:MFX:01:TRIG3:EC_NAME,TS4 120Hz,<class 'str'>
@@ -1349,7 +1324,7 @@ EVR:LAS:MFX:01:TRIG8:EC_NAME,TS4 120Hz,<class 'str'>
 EVR:LAS:MFX:01:TRIG9:EC_NAME,TS4 120Hz,<class 'str'>
 EVR:LAS:MFX:01:TRIGA:EC_NAME,TS4 120Hz,<class 'str'>
 EVR:LAS:MFX:01:TRIGB:EC_NAME,Available,<class 'str'>
-EVR:LAS:MFX:01:TRIG0:EVENT_NAME,TS4 120Hz,<class 'str'>
+EVR:LAS:MFX:01:TRIG0:EVENT_NAME,MFX Laser On,<class 'str'>
 EVR:LAS:MFX:01:TRIG1:EVENT_NAME,MFX Laser Off (Goose),<class 'str'>
 EVR:LAS:MFX:01:TRIG2:EVENT_NAME,TS4 120Hz,<class 'str'>
 EVR:LAS:MFX:01:TRIG3:EVENT_NAME,TS4 120Hz,<class 'str'>
@@ -1386,7 +1361,6 @@ IOC:LAS:MFX:EVR:01:APP_DIR2,,<class 'str'>
 IOC:LAS:MFX:EVR:01:ENGINEER,Karl Gumerlock (klg),<class 'str'>
 IOC:LAS:MFX:EVR:01:LOCATION,MFX ioc-las-mfx-srv45,<class 'str'>
 IOC:LAS:MFX:EVR:01:GTIM_CUR_SRC,OS Clock,<class 'str'>
-IOC:LAS:MFX:EVR:01:GTIM_EVT_SRC,evrTimeGet,<class 'str'>
 IOC:LAS:MFX:EVR:01:GTIM_HI_SRC,OS Clock,<class 'str'>
 IOC:LAS:MFX:EVR:01:CA_ADDR_LIST,,<class 'str'>
 IOC:LAS:MFX:EVR:01:CA_CONN_TIME,10.0,<class 'str'>
