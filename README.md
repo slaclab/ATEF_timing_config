@@ -41,34 +41,28 @@ The config file is a .json file that contains the PVs specific to the hutch.
 To generate the file, run the following command:
 
 ```
-python intra_hutch_main.py [-h] hutch_code [total_iterations] [interval]
+python intra-hutch_main.py
 ```
 
-- Enter the hutch_code corresponding to the hutch.
+- Enter the number corresponding to the hutch.
 - Enter the total number of iterations.
    - This value refers to the number of iterations that the PVs are sampled.
-   - We have been using 5 as a value that yields sufficient config file results. (default:5)
+   - We have been using 10 as a value that yields sufficient config file results. A number must be entered.
 - Enter the max interval for each iteration.
-   - This value refers to the maximum amount of time where the PV is sampled. (default:5). The unit for this value is in seconds.
+   - This value refers to the maximum amount of time where the PV is sampled. (default:5). The unit for this value is in seconds. 
+    
+![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/b16377cd-ffe9-480c-9d87-5029678773c4)
 
-Run the following line to get the help info
-```
-python intra_hutch_main.py -h
-```
+3. Following the prompts, a time estimation on the generation of the config file will be displayed along with a progress bar.
+screenshots of the time est. and progress:
 
-![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/1779cff7-0967-472d-a8f2-ec8c6e1145c1)
-
-Following the prompts, a time estimation on the generation of the config file will be displayed along with a progress bar.
-An example run on MFX4.5:
-
-![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/2f8464a0-f133-410b-9702-533310a33e38)
-
+![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/0b47c125-cad7-4f69-9bd6-c626638614f7)
 
 4. Running a config file through ATEF
-To run the config file through atef, use the following command replacing "/cds/home/r/rj1/atef/timing_config/MFX_FS4.5/20240201MFX_FS4.5.json" with the desired .json file: 
+To run the config file through atef, use the following command replacing "/cds/home/r/rj1/atef/timing_config/NEH_FS14/NEH_FS14.json" with the desired .json file: 
 
 ```
-python -m atef --log DEBUG check /cds/home/r/rj1/atef/timing_config/MFX_FS4.5/20240201MFX_FS4.5.json
+python -m atef --log DEBUG check /cds/home/r/rj1/atef/timing_config/NEH_FS14/NEH_FS14.json
 ```
 
 5. Interpreting the Output
@@ -81,8 +75,8 @@ How to interpret the results:
 
   1. Hutch name
   2. IOC name
-  3. PV name and the value recorded **last time** (after "equal to")
-  4. PV name and the value recorded **this time** (after "value of")
+  3. PV name and the value recorded last time (after "equal to")
+  4. PV name and the value recorded this time (after "value of")
 
 
 The output tells you the discrepancy of the specific PVs within an IOC of a hutch between a previous ATEF run (when the config file was generated) and now.

@@ -1,0 +1,131 @@
+PV_name,values,py_data_type
+IOC:LAS:LHN:CTR:04:START_CNT,1.0,<class 'float'>
+LAS:FS14:CNT:FQ:FREQ_RBCK_PROC_,1.0,<class 'float'>
+LAS:FS14:CNT:FQSR_recentlyStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_rebootStatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_rebootTime,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQSR_statusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_0_Name,Not In Use,<class 'str'>
+LAS:FS14:CNT:FQSR_0_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_0_Time,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQSR_1_Name,Not In Use,<class 'str'>
+LAS:FS14:CNT:FQSR_1_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_1_Time,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQSR_2_Name,Not In Use,<class 'str'>
+LAS:FS14:CNT:FQSR_2_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_2_Time,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQSR_3_Name,Not In Use,<class 'str'>
+LAS:FS14:CNT:FQSR_3_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_3_Time,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQSR_4_Name,Not In Use,<class 'str'>
+LAS:FS14:CNT:FQSR_4_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_4_Time,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQSR_5_Name,Not In Use,<class 'str'>
+LAS:FS14:CNT:FQSR_5_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_5_Time,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQSR_6_Name,Not In Use,<class 'str'>
+LAS:FS14:CNT:FQSR_6_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_6_Time,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQSR_7_Name,Not In Use,<class 'str'>
+LAS:FS14:CNT:FQSR_7_StatusStr,Status unknown,<class 'str'>
+LAS:FS14:CNT:FQSR_7_Time,Not yet saved,<class 'str'>
+LAS:FS14:CNT:FQ:PROTOCOL,53210A,<class 'str'>
+LAS:FS14:CNT:FQSR_heartbeat,0,<class 'int'>
+LAS:FS14:CNT:FQSR_i_am_alive,1,<class 'int'>
+LAS:FS14:CNT:FQSR_deadIfZero,0,<class 'int'>
+LAS:FS14:CNT:FQ:RESET,0,<class 'int'>
+LAS:FS14:CNT:FQ:SET_IMPEDANCE,0,<class 'int'>
+LAS:FS14:CNT:FQ:SET_COUPLING,0,<class 'int'>
+LAS:FS14:CNT:FQ:SET_NOISE_REJ,0,<class 'int'>
+LAS:FS14:CNT:FQ:GET_AUTO_LEVEL,0,<class 'int'>
+IOC:LAS:LHN:CTR:04ACCESS,0,<class 'int'>
+IOC:LAS:LHN:CTR:04FBCK,2,<class 'int'>
+IOC:LAS:LHN:CTR:04:ACCESS,0,<class 'int'>
+LAS:FS14:CNT:FQSR_rebootStatus,0,<class 'int'>
+LAS:FS14:CNT:FQSR_status,0,<class 'int'>
+LAS:FS14:CNT:FQSR_0_Status,0,<class 'int'>
+LAS:FS14:CNT:FQSR_1_Status,0,<class 'int'>
+LAS:FS14:CNT:FQSR_2_Status,0,<class 'int'>
+LAS:FS14:CNT:FQSR_3_Status,0,<class 'int'>
+LAS:FS14:CNT:FQSR_4_Status,0,<class 'int'>
+LAS:FS14:CNT:FQSR_5_Status,0,<class 'int'>
+LAS:FS14:CNT:FQSR_6_Status,0,<class 'int'>
+LAS:FS14:CNT:FQSR_7_Status,0,<class 'int'>
+LAS:FS14:CNT:FQ:SET_AUTO_LEVEL,0,<class 'int'>
+IOC:LAS:LHN:CTR:04:CA_UPD_TIME,15.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:FD_UPD_TIME,20.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:LOAD_UPD_TIME,10.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:MEM_UPD_TIME,10.0,<class 'float'>
+LAS:FS14:CNT:FQ:SET_TRIG_LEVEL,1.0,<class 'float'>
+LAS:FS14:CNT:FQ:SET_TRIG_PERCENT,-3.0,<class 'float'>
+LAS:FS14:CNT:FQ:AsynIO,0,<class 'int'>
+LAS:FS14:CNT:FQ:UPDATE,0,<class 'int'>
+LAS:FS14:CNT:FQ:GET_IMPEDANCE,0,<class 'int'>
+LAS:FS14:CNT:FQ:GET_COUPLING,0,<class 'int'>
+LAS:FS14:CNT:FQ:GET_NOISE_REJ,0,<class 'int'>
+IOC:LAS:LHN:CTR:04:SCANONCE_Q_HIGHPER,0.1,<class 'float'>
+IOC:LAS:LHN:CTR:04:SCANONCE_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBLOW_Q_HIGHPER,0.35,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBLOW_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBMEDIUM_Q_HIGHPER,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBMEDIUM_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBHIGH_Q_HIGHPER,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBHIGH_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:System_CLUST_AVAIL_0,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:System_CLUST_AVAIL_1,0.0,<class 'float'>
+LAS:FS14:CNT:FQSR_0_State,0,<class 'int'>
+LAS:FS14:CNT:FQSR_1_State,0,<class 'int'>
+LAS:FS14:CNT:FQSR_2_State,0,<class 'int'>
+LAS:FS14:CNT:FQSR_3_State,0,<class 'int'>
+LAS:FS14:CNT:FQSR_4_State,0,<class 'int'>
+LAS:FS14:CNT:FQSR_5_State,0,<class 'int'>
+LAS:FS14:CNT:FQSR_6_State,0,<class 'int'>
+LAS:FS14:CNT:FQSR_7_State,0,<class 'int'>
+IOC:LAS:LHN:CTR:04:READACF,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:SYSRESET,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:SysReset,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CA_CLNT_CNT,3.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:RECORD_CNT,145.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:FD_MAX,1024.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CPU_CNT,32.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:SUSP_TASK_CNT,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:MEM_USED,81547264.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:MEM_MAX,67453345792.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:PROCESS_ID,14828.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:PARENT_ID,4200.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:SCANONCE_Q_SIZE,1000.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CB_Q_SIZE,2000.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:SCANONCE_Q_HIGH,1.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:SCANONCE_Q_USED,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:SCANONCE_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBLOW_Q_HIGH,7.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBLOW_Q_USED,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBLOW_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBMEDIUM_Q_HIGH,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBMEDIUM_Q_USED,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBMEDIUM_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBHIGH_Q_HIGH,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBHIGH_Q_USED,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CBHIGH_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CLUST_1_0_0,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CLUST_1_0_1,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CLUST_1_0_2,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CLUST_1_0_3,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CLUST_1_1_0,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CLUST_1_1_1,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CLUST_1_1_2,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:CLUST_1_1_3,0.0,<class 'float'>
+LAS:FS14:CNT:FQ:GET_TRIG_LEVEL,0.0,<class 'float'>
+LAS:FS14:CNT:FQ:GET_TRIG_PERCENT,0.0,<class 'float'>
+IOC:LAS:LHN:CTR:04:STARTTOD,29.08.2023 17:13:27,<class 'str'>
+IOC:LAS:LHN:CTR:04:ST_SCRIPT1,./st.cmd,<class 'str'>
+IOC:LAS:LHN:CTR:04:ST_SCRIPT2,,<class 'str'>
+IOC:LAS:LHN:CTR:04:KERNEL_VERS,Linux 3.10.0-1160.2.2.el7.x86_64 x86_64,<class 'str'>
+IOC:LAS:LHN:CTR:04:EPICS_VERS,EPICS R7.0.3.1-2.0.0,<class 'str'>
+IOC:LAS:LHN:CTR:04:HOSTNAME,ctl-las-lhn-04,<class 'str'>
+IOC:LAS:LHN:CTR:04:APP_DIR1,/reg/g/pcds/epics/ioc/las/agilent5322/R,<class 'str'>
+IOC:LAS:LHN:CTR:04:APP_DIR2,1.0.4/build/iocBoot/ioc-las-lhn-ctr-04,<class 'str'>
+IOC:LAS:LHN:CTR:04:ENGINEER,Sameen Yunus (sfsyunus),<class 'str'>
+IOC:LAS:LHN:CTR:04:LOCATION,Laser Hall Bay 4 Frequency Counter,<class 'str'>
+LAS:FS14:CNT:FQ:IDENTITY,,<class 'str'>
+LAS:FS14:CNT:FQ:PROTOCOL_RBV,,<class 'str'>

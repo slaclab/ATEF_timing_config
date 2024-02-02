@@ -1,0 +1,118 @@
+PV_name,values,py_data_type
+LAS:XCS:IOC:BECK1:RECORD_CNT,128.0,<class 'float'>
+LAS:XCS:IOC:BECK1:CA_UPD_TIME,15.0,<class 'float'>
+XCS:LAS:R47:05:KL4132:SLOT1:AOUT1,5.0,<class 'float'>
+XCS:LAS:R47:05:KL4132:SLOT1:AOUT2,0.0,<class 'float'>
+XCS:LAS:R47:05:KL4132:SLOT2:AOUT1,0.0,<class 'float'>
+XCS:LAS:R47:05:KL4132:SLOT2:AOUT2,0.0,<class 'float'>
+LAS:XCS:IOC:BECK1:SR_deadIfZero,1,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_i_am_alive,1,<class 'int'>
+XCS:LAS:R47:05:CplrReprocCalc,1.0,<class 'float'>
+XCS:LAS:R47:05:OutputReprocEvt,188,<class 'int'>
+XCS:LAS:R47:05:CplrReprocFout,0,<class 'int'>
+XCS:LAS:R47:05:KL4132:SLOT1:AOUT1ReProc,0,<class 'int'>
+XCS:LAS:R47:05:KL4132:SLOT2:AOUT1ReProc,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot0,9000,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot1,4132,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot10,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot11,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot12,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot13,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot14,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot15,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot16,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot2,4132,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot3,3102,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot4,3102,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot5,9010,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot6,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot7,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot8,0,<class 'int'>
+XCS:LAS:R47:05:CplrBTSlot9,0,<class 'int'>
+XCS:LAS:R47:05:CplrCinWds,16,<class 'int'>
+XCS:LAS:R47:05:CplrCoutWds,16,<class 'int'>
+XCS:LAS:R47:05:CplrDinBits,0,<class 'int'>
+XCS:LAS:R47:05:CplrDoutBits,0,<class 'int'>
+XCS:LAS:R47:05:CplrNofConn,1,<class 'int'>
+XCS:LAS:R47:05:CplrNofExcp,0,<class 'int'>
+XCS:LAS:R47:05:CplrNofSigs,8,<class 'int'>
+XCS:LAS:R47:05:CplrOpThrdID,196025392,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_0_State,4,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_1_State,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_2_State,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_3_State,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_4_State,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_5_State,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_6_State,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_7_State,0,<class 'int'>
+XCS:LAS:R47:05:CplrLinkStat,1,<class 'int'>
+XCS:LAS:R47:05:CplrReady,1,<class 'int'>
+LAS:XCS:IOC:BECK1:ACCESS,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_0_Status,4,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_1_Status,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_2_Status,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_3_Status,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_4_Status,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_5_Status,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_6_Status,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_7_Status,0,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_rebootStatus,4,<class 'int'>
+LAS:XCS:IOC:BECK1:SR_status,4,<class 'int'>
+LAS:XCS:IOC:BECK1:APP_DIR1,/reg/g/pcds/epics/ioc/las/beckhoff/R0.3,<class 'str'>
+LAS:XCS:IOC:BECK1:APP_DIR2,.2,<class 'str'>
+LAS:XCS:IOC:BECK1:CA_ADDR_LIST,,<class 'str'>
+LAS:XCS:IOC:BECK1:CA_AUTO_ADDR,YES,<class 'str'>
+LAS:XCS:IOC:BECK1:CA_BEAC_TIME,5.0,<class 'str'>
+LAS:XCS:IOC:BECK1:CA_CONN_TIME,10.0,<class 'str'>
+LAS:XCS:IOC:BECK1:CA_MAX_ARRAY,4000000,<class 'str'>
+LAS:XCS:IOC:BECK1:CA_RPTR_PORT,5065,<class 'str'>
+LAS:XCS:IOC:BECK1:CA_SRCH_TIME,60.0,<class 'str'>
+LAS:XCS:IOC:BECK1:CA_SRVR_PORT,5064,<class 'str'>
+LAS:XCS:IOC:BECK1:ENGINEER,Karl Gumerlock (klg),<class 'str'>
+LAS:XCS:IOC:BECK1:EPICS_VERS,EPICS R3.14.12.3-0.1.0 $Date: Mon 2012-,<class 'str'>
+LAS:XCS:IOC:BECK1:HOSTNAME,ioc-las-xcs-srv04,<class 'str'>
+LAS:XCS:IOC:BECK1:IOC_LOG_INET,ctl-logsrv01.pcdsn,<class 'str'>
+LAS:XCS:IOC:BECK1:IOC_LOG_PORT,7004,<class 'str'>
+LAS:XCS:IOC:BECK1:LOCATION,not available,<class 'str'>
+LAS:XCS:IOC:BECK1:STARTTOD,07/05/2023 14:59:11,<class 'str'>
+LAS:XCS:IOC:BECK1:ST_SCRIPT1,var startup not found,<class 'str'>
+LAS:XCS:IOC:BECK1:ST_SCRIPT2,var st not found,<class 'str'>
+LAS:XCS:IOC:BECK1:TIMEZONE,PUS::480:031102:110402,<class 'str'>
+LAS:XCS:IOC:BECK1:TS_NTP_INET,psntp.slac.stanford.edu,<class 'str'>
+XCS:LAS:R47:05:CplrID,BK9000 BD.00,<class 'str'>
+XCS:LAS:R47:05:CplrIPAddr,172.21.160.35,<class 'str'>
+XCS:LAS:R47:05:CplrName,bhc-xcs-las01,<class 'str'>
+XCS:LAS:R47:05:CplrOpThrdName,B9K160.35,<class 'str'>
+XCS:LAS:R47:05:CplrTLastTry,2023/07/05 14:59:11.024968,<class 'str'>
+XCS:LAS:R47:05:CplrTLostConn,<undefined>,<class 'str'>
+XCS:LAS:R47:05:CplrTSetConn,2023/07/05 14:59:11.038127,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_0_Name,ioc-las-xcs-beck1,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_0_StatusStr,Ok,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_0_Time,Tue Oct 31 16:18:15,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_1_Name,Not In Use,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_1_StatusStr,Status unknown,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_1_Time,Not yet saved,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_2_Name,Not In Use,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_2_StatusStr,Status unknown,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_2_Time,Not yet saved,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_3_Name,Not In Use,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_3_StatusStr,Status unknown,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_3_Time,Not yet saved,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_4_Name,Not In Use,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_4_StatusStr,Status unknown,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_4_Time,Not yet saved,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_5_Name,Not In Use,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_5_StatusStr,Status unknown,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_5_Time,Not yet saved,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_6_Name,Not In Use,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_6_StatusStr,Status unknown,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_6_Time,Not yet saved,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_7_Name,Not In Use,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_7_StatusStr,Status unknown,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_7_Time,Not yet saved,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_rebootStatusStr,Ok,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_rebootTime,Wed Jul 05 14:59:11,<class 'str'>
+LAS:XCS:IOC:BECK1:SR_recentlyStr,Wrote 'ioc-las-xcs-beck1.sav2',<class 'str'>
+LAS:XCS:IOC:BECK1:SR_statusStr,Ok,<class 'str'>
+LAS:XCS:IOC:BECK1:READACF,0.0,<class 'float'>
+LAS:XCS:IOC:BECK1:SYSRESET,0.0,<class 'float'>

@@ -1,0 +1,305 @@
+PV_name,values,py_data_type
+IOC:LAS:XCS:SR620:01:START_CNT,1.0,<class 'float'>
+LAS:FS4:CNT:TI:GetGatePeriod:Update,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SR_rebootStatusStr,Ok,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_rebootTime,Tue Aug 29 08:56:43,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_statusStr,Ok,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_0_Name,ioc-las-xcs-sr620-01,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_0_StatusStr,Ok,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_0_Time,Tue Oct 31 16:14:03,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_1_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_1_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_1_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_2_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_2_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_2_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_3_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_3_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_3_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_4_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_4_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_4_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_5_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_5_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_5_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_6_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_6_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_6_Time,Not yet saved,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_7_Name,Not In Use,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_7_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:XCS:SR620:01:SR_7_Time,Not yet saved,<class 'str'>
+LAS:FS4:CNT:TI:SendDebug,,<class 'str'>
+IOC:LAS:XCS:SR620:01:GTIM_RESET,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:01HZ_MODE,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:02HZ_MODE,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:05HZ_MODE,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:1HZ_MODE,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:2HZ_MODE,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:5HZ_MODE,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:10HZ_MODE,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_i_am_alive,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_deadIfZero,1,<class 'int'>
+LAS:FS4:CNT:TI:Reset,0,<class 'int'>
+LAS:FS4:CNT:TI:ManualTrigger,0,<class 'int'>
+LAS:FS4:CNT:TI:SetRefLvlAmp,1,<class 'int'>
+LAS:FS4:CNT:TI:A:SetInputCoupl,0,<class 'int'>
+LAS:FS4:CNT:TI:B:SetInputCoupl,0,<class 'int'>
+LAS:FS4:CNT:TI:A:SetTrigMode,0,<class 'int'>
+LAS:FS4:CNT:TI:B:SetTrigMode,0,<class 'int'>
+LAS:FS4:CNT:TI:EXT:SetTrigSlope,0,<class 'int'>
+LAS:FS4:CNT:TI:A:SetTrigSlope,0,<class 'int'>
+LAS:FS4:CNT:TI:B:SetTrigSlope,0,<class 'int'>
+LAS:FS4:CNT:TI:DeviceTrigger,0,<class 'int'>
+LAS:FS4:CNT:TI:StartButton,0,<class 'int'>
+LAS:FS4:CNT:TI:StopButton,0,<class 'int'>
+LAS:FS4:CNT:TI:SetAutoMeasMode,1,<class 'int'>
+LAS:FS4:CNT:TI:CompParity,0,<class 'int'>
+LAS:FS4:CNT:TI:SetVarianceType,0,<class 'int'>
+LAS:FS4:CNT:TI:StartMeasurement,0,<class 'int'>
+LAS:FS4:CNT:TI:StartScan,0,<class 'int'>
+LAS:FS4:CNT:TI:ClearScan,0,<class 'int'>
+LAS:FS4:CNT:TI:SetAutoprintMode,0,<class 'int'>
+LAS:FS4:CNT:TI:AutoscaleGraph,0,<class 'int'>
+LAS:FS4:CNT:TI:ClearDisplayGraph,0,<class 'int'>
+LAS:FS4:CNT:TI:SetGraphEnable,1,<class 'int'>
+LAS:FS4:CNT:TI:SetPrintingDevice,0,<class 'int'>
+LAS:FS4:CNT:TI:SetPlotterPort,0,<class 'int'>
+LAS:FS4:CNT:TI:StartPlot,0,<class 'int'>
+LAS:FS4:CNT:TI:ClearPlot,0,<class 'int'>
+LAS:FS4:CNT:TI:SetExpandMode,0,<class 'int'>
+LAS:FS4:CNT:TI:SetClockSource,1,<class 'int'>
+LAS:FS4:CNT:TI:SetClockFreq,0,<class 'int'>
+LAS:FS4:CNT:TI:StartAutocal,0,<class 'int'>
+LAS:FS4:CNT:TI:EXT:GetInputTerm,1,<class 'int'>
+LAS:FS4:CNT:TI:A:GetInputTerm,0,<class 'int'>
+LAS:FS4:CNT:TI:B:GetInputTerm,0,<class 'int'>
+LAS:FS4:CNT:TI:GetArmMode,7,<class 'int'>
+LAS:FS4:CNT:TI:GetDispRELMode,0,<class 'int'>
+LAS:FS4:CNT:TI:GetInstrumentMode,0,<class 'int'>
+LAS:FS4:CNT:TI:GetMeasSource,0,<class 'int'>
+LAS:FS4:CNT:TI:GetDACOutputMode,0,<class 'int'>
+LAS:FS4:CNT:TI:GetDelayScanMode,0,<class 'int'>
+LAS:FS4:CNT:TI:GetScanMode,0,<class 'int'>
+LAS:FS4:CNT:TI:GetNumScanPoints,6,<class 'int'>
+LAS:FS4:CNT:TI:GetDisplayGraphType,0,<class 'int'>
+LAS:FS4:CNT:TI:GetDisplaySource,0,<class 'int'>
+LAS:FS4:CNT:TI:GetPrinterPortMode,0,<class 'int'>
+LAS:FS4:CNT:TI:DVM0:GetVRange,0,<class 'int'>
+LAS:FS4:CNT:TI:DVM1:GetVRange,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll,1,<class 'str'>
+LAS:FS4:CNT:TI:UpdateHighRate,2,<class 'str'>
+IOC:LAS:XCS:SR620:01:ACCESS,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_rebootStatus,4,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_status,4,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_0_Status,4,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_1_Status,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_2_Status,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_3_Status,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_4_Status,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_5_Status,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_6_Status,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_7_Status,0,<class 'int'>
+LAS:FS4:CNT:TI:EXT:SetInputTerm,1,<class 'int'>
+LAS:FS4:CNT:TI:A:SetInputTerm,0,<class 'int'>
+LAS:FS4:CNT:TI:B:SetInputTerm,0,<class 'int'>
+LAS:FS4:CNT:TI:SetArmMode,7,<class 'int'>
+LAS:FS4:CNT:TI:SetDispRELMode,0,<class 'int'>
+LAS:FS4:CNT:TI:SetInstrumentMode,0,<class 'int'>
+LAS:FS4:CNT:TI:SetMeasSource,0,<class 'int'>
+LAS:FS4:CNT:TI:SetDACOutputMode,0,<class 'int'>
+LAS:FS4:CNT:TI:SetDelayScanMode,0,<class 'int'>
+LAS:FS4:CNT:TI:SetScanMode,0,<class 'int'>
+LAS:FS4:CNT:TI:SetNumScanPoints,6,<class 'int'>
+LAS:FS4:CNT:TI:SetDisplayGraphType,0,<class 'int'>
+LAS:FS4:CNT:TI:SetDisplaySource,0,<class 'int'>
+LAS:FS4:CNT:TI:SetPrinterPortMode,0,<class 'int'>
+LAS:FS4:CNT:TI:DVM0:SetVRange,0,<class 'int'>
+LAS:FS4:CNT:TI:DVM1:SetVRange,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:CA_UPD_TIME,15.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:FD_UPD_TIME,20.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:LOAD_UPD_TIME,10.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:MEM_UPD_TIME,10.0,<class 'float'>
+LAS:FS4:CNT:TI:ExecSelfTest,0.0,<class 'float'>
+LAS:FS4:CNT:TI:EXT:SetTrigThreshold,1.7,<class 'float'>
+LAS:FS4:CNT:TI:A:SetTrigThreshold,-0.2,<class 'float'>
+LAS:FS4:CNT:TI:B:SetTrigThreshold,-0.2,<class 'float'>
+LAS:FS4:CNT:TI:SetGatePeriod,1e-06,<class 'float'>
+LAS:FS4:CNT:TI:SetSampleSize,10.0,<class 'float'>
+LAS:FS4:CNT:TI:SetDispREL,0.0,<class 'float'>
+LAS:FS4:CNT:TI:SetDelayStartPos,1.0,<class 'float'>
+LAS:FS4:CNT:TI:SetDelayScanStepSize,1e-06,<class 'float'>
+LAS:FS4:CNT:TI:SetScanHoldTime,0.01,<class 'float'>
+LAS:FS4:CNT:TI:DAC0:SetScanStartV,0.0,<class 'float'>
+LAS:FS4:CNT:TI:DAC1:SetScanStartV,0.0,<class 'float'>
+LAS:FS4:CNT:TI:DAC0:SetScanStepSize,0.0,<class 'float'>
+LAS:FS4:CNT:TI:DAC1:SetScanStepSize,0.0,<class 'float'>
+LAS:FS4:CNT:TI:SetCursorPosition,1.0,<class 'float'>
+LAS:FS4:CNT:TI:SetGraphScaleHistV,100.0,<class 'float'>
+LAS:FS4:CNT:TI:SetGraphScaleHistH,1e-07,<class 'float'>
+LAS:FS4:CNT:TI:SetGraphScaleHistB,50.0,<class 'float'>
+LAS:FS4:CNT:TI:SetGraphScaleMean,1e-07,<class 'float'>
+LAS:FS4:CNT:TI:SetGraphScaleJitter,2e-08,<class 'float'>
+LAS:FS4:CNT:TI:SetPlotterAddress,5.0,<class 'float'>
+LAS:FS4:CNT:TI:SendKeyPress,0.0,<class 'float'>
+LAS:FS4:CNT:TI:SetPortByte,0.0,<class 'float'>
+LAS:FS4:CNT:TI,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:FRoot,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F1,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F1:1,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F1:2,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F1:3,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F1:4,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F1:5,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F2,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F3,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F4,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F5,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateAll:F6,0,<class 'int'>
+LAS:FS4:CNT:TI:UpdateHighRate:FRoot,0,<class 'int'>
+LAS:FS4:CNT:TI:ProcMeasAll,0,<class 'int'>
+LAS:FS4:CNT:TI:MeasOffsetUpdateFanout,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:GTIM_ERR_CNT,0,<class 'int'>
+LAS:FS4:CNT:TI:GetRefLvlAmp,1,<class 'int'>
+LAS:FS4:CNT:TI:A:GetInputCoupl,0,<class 'int'>
+LAS:FS4:CNT:TI:B:GetInputCoupl,0,<class 'int'>
+LAS:FS4:CNT:TI:A:GetTrigMode,0,<class 'int'>
+LAS:FS4:CNT:TI:B:GetTrigMode,0,<class 'int'>
+LAS:FS4:CNT:TI:EXT:GetTrigSlope,0,<class 'int'>
+LAS:FS4:CNT:TI:A:GetTrigSlope,0,<class 'int'>
+LAS:FS4:CNT:TI:B:GetTrigSlope,0,<class 'int'>
+LAS:FS4:CNT:TI:GetAutoMeasMode,1,<class 'int'>
+LAS:FS4:CNT:TI:GetVarianceType,0,<class 'int'>
+LAS:FS4:CNT:TI:GetAutoprintMode,0,<class 'int'>
+LAS:FS4:CNT:TI:GetGraphEnable,1,<class 'int'>
+LAS:FS4:CNT:TI:GetPrintingDevice,0,<class 'int'>
+LAS:FS4:CNT:TI:GetPlotterPort,0,<class 'int'>
+LAS:FS4:CNT:TI:GetExpandMode,0,<class 'int'>
+LAS:FS4:CNT:TI:GetClockSource,1,<class 'int'>
+LAS:FS4:CNT:TI:GetClockFreq,0,<class 'int'>
+LAS:FS4:CNT:TI:GetOpComplete,0,<class 'int'>
+LAS:FS4:CNT:TI:DispOffsetInvMeas,1,<class 'int'>
+IOC:LAS:XCS:SR620:01:FD_FREE,1011.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SCANONCE_Q_HIGHPER,0.1,<class 'float'>
+IOC:LAS:XCS:SR620:01:SCANONCE_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBLOW_Q_HIGHPER,0.2,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBLOW_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBMEDIUM_Q_HIGHPER,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBMEDIUM_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBHIGH_Q_HIGHPER,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBHIGH_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SCANMON_SEVR,0.0,<class 'float'>
+LAS:FS4:CNT:TI:GetOffsetInvMeasMean,4.726280000000001e-06,<class 'float'>
+LAS:FS4:CNT:TI:GetOffsetInvMeasMax,4.7182210000000025e-06,<class 'float'>
+LAS:FS4:CNT:TI:GetOffsetInvMeasMin,4.731535000000003e-06,<class 'float'>
+IOC:LAS:XCS:SR620:01:SR_0_State,4,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_1_State,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_2_State,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_3_State,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_4_State,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_5_State,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_6_State,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:SR_7_State,0,<class 'int'>
+IOC:LAS:XCS:SR620:01:READACF,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SYSRESET,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SysReset,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:RECORD_CNT,328.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:FD_MAX,1024.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:FD_CNT,13.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CPU_CNT,4.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SUSP_TASK_CNT,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:MEM_USED,5931008.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:MEM_MAX,4029169664.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:PROCESS_ID,14057.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:PARENT_ID,5205.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SCANONCE_Q_SIZE,1000.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CB_Q_SIZE,2000.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SCANONCE_Q_HIGH,1.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SCANONCE_Q_USED,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:SCANONCE_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBLOW_Q_HIGH,4.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBLOW_Q_USED,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBLOW_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBMEDIUM_Q_HIGH,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBMEDIUM_Q_USED,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBMEDIUM_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBHIGH_Q_HIGH,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBHIGH_Q_USED,0.0,<class 'float'>
+IOC:LAS:XCS:SR620:01:CBHIGH_Q_OVERRUNS,0.0,<class 'float'>
+LAS:FS4:CNT:TI:EXT:GetTrigThreshold,1.7,<class 'float'>
+LAS:FS4:CNT:TI:A:GetTrigThreshold,-0.2,<class 'float'>
+LAS:FS4:CNT:TI:B:GetTrigThreshold,-0.2,<class 'float'>
+LAS:FS4:CNT:TI:GetGatePeriod,0.0,<class 'float'>
+LAS:FS4:CNT:TI:GetSampleSize,10.0,<class 'float'>
+LAS:FS4:CNT:TI:StartMeasGetMean,0.0,<class 'float'>
+LAS:FS4:CNT:TI:StartMeasGetJitter,0.0,<class 'float'>
+LAS:FS4:CNT:TI:StartMeasGetMax,0.0,<class 'float'>
+LAS:FS4:CNT:TI:StartMeasGetMin,0.0,<class 'float'>
+LAS:FS4:CNT:TI:GetMeasMean,4.527372e-05,<class 'float'>
+LAS:FS4:CNT:TI:GetMeasJitter,4.35e-09,<class 'float'>
+LAS:FS4:CNT:TI:GetMeasMax,4.5281779e-05,<class 'float'>
+LAS:FS4:CNT:TI:GetMeasMin,4.5268465e-05,<class 'float'>
+LAS:FS4:CNT:TI:GetDispREL,0.0,<class 'float'>
+LAS:FS4:CNT:TI:GetDelayStartPos,1.0,<class 'float'>
+LAS:FS4:CNT:TI:GetDelayScanStepSize,1e-06,<class 'float'>
+LAS:FS4:CNT:TI:GetScanHoldTime,0.01,<class 'float'>
+LAS:FS4:CNT:TI:GetLastScanPoint,0.0,<class 'float'>
+LAS:FS4:CNT:TI:DAC0:GetScanStartV,0.0,<class 'float'>
+LAS:FS4:CNT:TI:DAC1:GetScanStartV,0.0,<class 'float'>
+LAS:FS4:CNT:TI:DAC0:GetOutputV,8.0,<class 'float'>
+LAS:FS4:CNT:TI:DAC1:GetOutputV,0.2,<class 'float'>
+LAS:FS4:CNT:TI:DAC0:GetScanStepSize,0.0,<class 'float'>
+LAS:FS4:CNT:TI:DAC1:GetScanStepSize,0.0,<class 'float'>
+LAS:FS4:CNT:TI:GetCursorPosition,0.0,<class 'float'>
+LAS:FS4:CNT:TI:GetGraphScaleHistV,100.0,<class 'float'>
+LAS:FS4:CNT:TI:GetGraphScaleHistH,1e-07,<class 'float'>
+LAS:FS4:CNT:TI:GetGraphScaleHistB,50.0,<class 'float'>
+LAS:FS4:CNT:TI:GetGraphScaleMean,1e-07,<class 'float'>
+LAS:FS4:CNT:TI:GetGraphScaleJitter,2e-08,<class 'float'>
+LAS:FS4:CNT:TI:GetPlotterAddress,5.0,<class 'float'>
+LAS:FS4:CNT:TI:GetLastKeyPressed,33.0,<class 'float'>
+LAS:FS4:CNT:TI:GetPortByte,0.0,<class 'float'>
+LAS:FS4:CNT:TI:MeasOffset,5e-05,<class 'float'>
+IOC:LAS:XCS:SR620:01:STARTTOD,08/29/2023 08:56:43,<class 'str'>
+IOC:LAS:XCS:SR620:01:ST_SCRIPT1,./st.cmd,<class 'str'>
+IOC:LAS:XCS:SR620:01:ST_SCRIPT2,,<class 'str'>
+IOC:LAS:XCS:SR620:01:KERNEL_VERS,Linux 2.6.18-164.15.1.el5 x86_64,<class 'str'>
+IOC:LAS:XCS:SR620:01:EPICS_VERS,EPICS R7.0.2.2-2.0.1,<class 'str'>
+IOC:LAS:XCS:SR620:01:HOSTNAME,ioc-las-xcs-srv04,<class 'str'>
+IOC:LAS:XCS:SR620:01:APP_DIR1,/reg/g/pcds/epics/ioc/las/sr620/R1.1.2/,<class 'str'>
+IOC:LAS:XCS:SR620:01:APP_DIR2,build/iocBoot/ioc-las-xcs-sr620-01,<class 'str'>
+IOC:LAS:XCS:SR620:01:ENGINEER,Karl Gumerlock (klg),<class 'str'>
+IOC:LAS:XCS:SR620:01:LOCATION,LAS:FS4:IOC:CNT:TI,<class 'str'>
+IOC:LAS:XCS:SR620:01:GTIM_CUR_SRC,OS Clock,<class 'str'>
+IOC:LAS:XCS:SR620:01:GTIM_EVT_SRC,No working providers,<class 'str'>
+IOC:LAS:XCS:SR620:01:GTIM_HI_SRC,OS Clock,<class 'str'>
+IOC:LAS:XCS:SR620:01:CA_ADDR_LIST,,<class 'str'>
+IOC:LAS:XCS:SR620:01:CA_CONN_TIME,10.0,<class 'str'>
+IOC:LAS:XCS:SR620:01:CA_AUTO_ADDR,YES,<class 'str'>
+IOC:LAS:XCS:SR620:01:CA_RPTR_PORT,5065,<class 'str'>
+IOC:LAS:XCS:SR620:01:CA_SRVR_PORT,5064,<class 'str'>
+IOC:LAS:XCS:SR620:01:CA_MAX_ARRAY,4000000,<class 'str'>
+IOC:LAS:XCS:SR620:01:CA_SRCH_TIME,60.0,<class 'str'>
+IOC:LAS:XCS:SR620:01:CA_BEAC_TIME,5.0,<class 'str'>
+IOC:LAS:XCS:SR620:01:CAS_SRVR_PORT,,<class 'str'>
+IOC:LAS:XCS:SR620:01:CAS_AUTO_ADDR,,<class 'str'>
+IOC:LAS:XCS:SR620:01:CAS_ADDR_LIST,,<class 'str'>
+IOC:LAS:XCS:SR620:01:CAS_BEACON_PERIOD,5.0,<class 'str'>
+IOC:LAS:XCS:SR620:01:CAS_BEACON_PORT,,<class 'str'>
+IOC:LAS:XCS:SR620:01:CAS_ADDR_INTF_LIST,,<class 'str'>
+IOC:LAS:XCS:SR620:01:CAS_ADDR_IGNORE_LIST,,<class 'str'>
+IOC:LAS:XCS:SR620:01:TS_NTP_INET,psntp.slac.stanford.edu,<class 'str'>
+IOC:LAS:XCS:SR620:01:IOC_LOG_PORT,7004,<class 'str'>
+IOC:LAS:XCS:SR620:01:IOC_LOG_INET,ctl-logsrv01.pcdsn,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVA_ADDR_LIST,,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVA_AUTO_ADDR,TRUE,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVA_BEACON_PERIOD,15.0,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVA_BROADCAST_PORT,5076,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVA_CONN_TMO,30.0,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVA_DEBUG,0,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVA_SERVER_PORT,5075,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVAS_AUTO_BEACON_ADDR_LIST,TRUE,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVAS_BEACON_ADDR_LIST,,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVAS_BEACON_PERIOD,,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVAS_BROADCAST_PORT,,<class 'str'>
+IOC:LAS:XCS:SR620:01:PVAS_SERVER_PORT,,<class 'str'>
+LAS:FS4:CNT:TI:IDStr,"StanfordResearchSystems,SR620,02336,1.4",<class 'str'>

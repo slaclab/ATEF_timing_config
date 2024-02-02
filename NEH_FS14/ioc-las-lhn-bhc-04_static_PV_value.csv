@@ -1,0 +1,145 @@
+PV_name,values,py_data_type
+IOC:LAS:ADC:BHC:04:START_CNT,59.0,<class 'float'>
+IOC:LAS:ADC:BHC:04SR_rebootStatusStr,Ok,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_rebootTime,Tue Aug 29 16:57:36,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_statusStr,Ok,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_0_Name,ioc-las-lhn-bhc-04,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_0_StatusStr,Ok,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_1_Name,Not In Use,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_1_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_1_Time,Not yet saved,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_2_Name,Not In Use,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_2_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_2_Time,Not yet saved,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_3_Name,Not In Use,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_3_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_3_Time,Not yet saved,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_4_Name,Not In Use,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_4_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_4_Time,Not yet saved,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_5_Name,Not In Use,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_5_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_5_Time,Not yet saved,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_6_Name,Not In Use,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_6_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_6_Time,Not yet saved,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_7_Name,Not In Use,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_7_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:ADC:BHC:04SR_7_Time,Not yet saved,<class 'str'>
+IOC:LAS:ADC:BHC:04:GTIM_RESET,0,<class 'int'>
+IOC:LAS:ADC:BHC:04:01HZ_MODE,1,<class 'int'>
+IOC:LAS:ADC:BHC:04:02HZ_MODE,1,<class 'int'>
+IOC:LAS:ADC:BHC:04:05HZ_MODE,1,<class 'int'>
+IOC:LAS:ADC:BHC:04:1HZ_MODE,1,<class 'int'>
+IOC:LAS:ADC:BHC:04:2HZ_MODE,1,<class 'int'>
+IOC:LAS:ADC:BHC:04:5HZ_MODE,1,<class 'int'>
+IOC:LAS:ADC:BHC:04:10HZ_MODE,1,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_i_am_alive,1,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_deadIfZero,1,<class 'int'>
+IOC:LAS:ADC:BHC:04:ACCESS,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_rebootStatus,4,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_status,4,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_0_Status,4,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_1_Status,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_2_Status,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_3_Status,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_4_Status,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_5_Status,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_6_Status,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_7_Status,0,<class 'int'>
+LAS:LHN:ADC:04:BHC:AO1:1,5.0,<class 'float'>
+LAS:LHN:ADC:04:BHC:AO1:2,0.0,<class 'float'>
+LAS:LHN:ADC:04:BHC:AO1:3,0.0,<class 'float'>
+LAS:LHN:ADC:04:BHC:AO1:4,0.0,<class 'float'>
+LAS:LHN:ADC:04:RF_LOCK,5.0,<class 'float'>
+LAS:LHN:ADC:04:FB_GAIN,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CA_UPD_TIME,15.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:FD_UPD_TIME,20.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:LOAD_UPD_TIME,10.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:MEM_UPD_TIME,10.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:GTIM_ERR_CNT,82,<class 'int'>
+IOC:LAS:ADC:BHC:04:SCANONCE_Q_HIGHPER,1.4,<class 'float'>
+IOC:LAS:ADC:BHC:04:SCANONCE_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBLOW_Q_HIGHPER,0.95,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBLOW_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBMEDIUM_Q_HIGHPER,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBMEDIUM_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBHIGH_Q_HIGHPER,0.2,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBHIGH_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:SCANMON_SEVR,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04SR_1_State,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_2_State,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_3_State,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_4_State,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_5_State,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_6_State,0,<class 'int'>
+IOC:LAS:ADC:BHC:04SR_7_State,0,<class 'int'>
+IOC:LAS:ADC:BHC:04:READACF,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:SYSRESET,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:SysReset,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:STARTTOD,08/29/2023 16:57:36,<class 'str'>
+IOC:LAS:ADC:BHC:04:ST_SCRIPT1,./st.cmd,<class 'str'>
+IOC:LAS:ADC:BHC:04:ST_SCRIPT2,,<class 'str'>
+IOC:LAS:ADC:BHC:04:KERNEL_VERS,Linux 3.10.0-1160.2.2.el7.x86_64 x86_64,<class 'str'>
+IOC:LAS:ADC:BHC:04:EPICS_VERS,EPICS R7.0.2.2-2.0.1,<class 'str'>
+IOC:LAS:ADC:BHC:04:HOSTNAME,ctl-las-lhn-04,<class 'str'>
+IOC:LAS:ADC:BHC:04:APP_DIR1,/cds/group/pcds/epics/ioc/las/ek9000/R1,<class 'str'>
+IOC:LAS:ADC:BHC:04:APP_DIR2,.0.6/build/iocBoot/ioc-las-lhn-bhc-04,<class 'str'>
+IOC:LAS:ADC:BHC:04:ENGINEER,Sameen Yunus (sfsyunus),<class 'str'>
+IOC:LAS:ADC:BHC:04:LOCATION,LAS TIMING ADC ZONE4,<class 'str'>
+IOC:LAS:ADC:BHC:04:GTIM_CUR_SRC,OS Clock,<class 'str'>
+IOC:LAS:ADC:BHC:04:GTIM_EVT_SRC,No working providers,<class 'str'>
+IOC:LAS:ADC:BHC:04:GTIM_HI_SRC,OS Clock,<class 'str'>
+IOC:LAS:ADC:BHC:04:CA_ADDR_LIST,,<class 'str'>
+IOC:LAS:ADC:BHC:04:CA_CONN_TIME,10.0,<class 'str'>
+IOC:LAS:ADC:BHC:04:CA_AUTO_ADDR,YES,<class 'str'>
+IOC:LAS:ADC:BHC:04:CA_RPTR_PORT,5065,<class 'str'>
+IOC:LAS:ADC:BHC:04:CA_SRVR_PORT,5064,<class 'str'>
+IOC:LAS:ADC:BHC:04:CA_MAX_ARRAY,4000000,<class 'str'>
+IOC:LAS:ADC:BHC:04:CA_SRCH_TIME,60.0,<class 'str'>
+IOC:LAS:ADC:BHC:04:CA_BEAC_TIME,5.0,<class 'str'>
+IOC:LAS:ADC:BHC:04:CAS_SRVR_PORT,,<class 'str'>
+IOC:LAS:ADC:BHC:04:CAS_AUTO_ADDR,,<class 'str'>
+IOC:LAS:ADC:BHC:04:CAS_ADDR_LIST,,<class 'str'>
+IOC:LAS:ADC:BHC:04:CAS_BEACON_PERIOD,5.0,<class 'str'>
+IOC:LAS:ADC:BHC:04:CAS_BEACON_PORT,,<class 'str'>
+IOC:LAS:ADC:BHC:04:CAS_ADDR_INTF_LIST,,<class 'str'>
+IOC:LAS:ADC:BHC:04:CAS_ADDR_IGNORE_LIST,,<class 'str'>
+IOC:LAS:ADC:BHC:04:TIMEZONE,PUS::480:031002:110302,<class 'str'>
+IOC:LAS:ADC:BHC:04:TS_NTP_INET,psntp.slac.stanford.edu,<class 'str'>
+IOC:LAS:ADC:BHC:04:IOC_LOG_PORT,7004,<class 'str'>
+IOC:LAS:ADC:BHC:04:IOC_LOG_INET,ctl-logsrv01.pcdsn,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVA_ADDR_LIST,,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVA_AUTO_ADDR,TRUE,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVA_BEACON_PERIOD,15.0,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVA_BROADCAST_PORT,5076,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVA_CONN_TMO,30.0,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVA_DEBUG,0,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVA_SERVER_PORT,5075,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVAS_AUTO_BEACON_ADDR_LIST,TRUE,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVAS_BEACON_ADDR_LIST,,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVAS_BEACON_PERIOD,,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVAS_BROADCAST_PORT,,<class 'str'>
+IOC:LAS:ADC:BHC:04:PVAS_SERVER_PORT,,<class 'str'>
+IOC:LAS:ADC:BHC:04:RECORD_CNT,196.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:FD_MAX,1024.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CPU_CNT,32.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:SUSP_TASK_CNT,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:MEM_USED,114843648.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:MEM_MAX,67453345792.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:PROCESS_ID,4228.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:PARENT_ID,4148.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:SCANONCE_Q_SIZE,1000.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CB_Q_SIZE,2000.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:SCANONCE_Q_HIGH,14.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:SCANONCE_Q_USED,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:SCANONCE_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBLOW_Q_HIGH,19.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBLOW_Q_USED,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBLOW_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBMEDIUM_Q_HIGH,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBMEDIUM_Q_USED,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBMEDIUM_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBHIGH_Q_HIGH,4.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBHIGH_Q_USED,0.0,<class 'float'>
+IOC:LAS:ADC:BHC:04:CBHIGH_Q_OVERRUNS,0.0,<class 'float'>

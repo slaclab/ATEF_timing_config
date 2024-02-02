@@ -1,0 +1,146 @@
+PV_name,values,py_data_type
+IOC:LAS:CXI:BHC:01:START_CNT,12.0,<class 'float'>
+IOC:LAS:CXI:BHC:01SR_rebootStatusStr,.sav file contained an error message,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_rebootTime,Thu Nov 16 12:00:59,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_statusStr,60 values not saved,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_0_Name,ioc-las-cxi-bhc-01,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_0_StatusStr,60 values not saved,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_0_Time,Tue Nov 21 10:36:39,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_1_Name,Not In Use,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_1_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_1_Time,Not yet saved,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_2_Name,Not In Use,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_2_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_2_Time,Not yet saved,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_3_Name,Not In Use,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_3_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_3_Time,Not yet saved,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_4_Name,Not In Use,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_4_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_4_Time,Not yet saved,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_5_Name,Not In Use,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_5_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_5_Time,Not yet saved,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_6_Name,Not In Use,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_6_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_6_Time,Not yet saved,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_7_Name,Not In Use,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_7_StatusStr,Status unknown,<class 'str'>
+IOC:LAS:CXI:BHC:01SR_7_Time,Not yet saved,<class 'str'>
+IOC:LAS:CXI:BHC:01:GTIM_RESET,0,<class 'int'>
+IOC:LAS:CXI:BHC:01:01HZ_MODE,1,<class 'int'>
+IOC:LAS:CXI:BHC:01:02HZ_MODE,1,<class 'int'>
+IOC:LAS:CXI:BHC:01:05HZ_MODE,1,<class 'int'>
+IOC:LAS:CXI:BHC:01:1HZ_MODE,1,<class 'int'>
+IOC:LAS:CXI:BHC:01:2HZ_MODE,1,<class 'int'>
+IOC:LAS:CXI:BHC:01:5HZ_MODE,1,<class 'int'>
+IOC:LAS:CXI:BHC:01:10HZ_MODE,1,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_i_am_alive,1,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_deadIfZero,1,<class 'int'>
+IOC:LAS:CXI:BHC:01:ACCESS,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_rebootStatus,2,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_status,2,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_0_Status,2,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_1_Status,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_2_Status,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_3_Status,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_4_Status,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_5_Status,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_6_Status,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_7_Status,0,<class 'int'>
+LAS:CXI:ADC:01:BHC:AO1:1,0.0,<class 'float'>
+LAS:CXI:ADC:01:BHC:AO1:2,0.0,<class 'float'>
+LAS:CXI:ADC:01:RF_LOCK,0.0,<class 'float'>
+LAS:CXI:ADC:01:FB_GAIN,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CA_UPD_TIME,15.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:FD_UPD_TIME,20.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:LOAD_UPD_TIME,10.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:MEM_UPD_TIME,10.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:GTIM_ERR_CNT,0,<class 'int'>
+IOC:LAS:CXI:BHC:01:SCANONCE_Q_HIGHPER,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SCANONCE_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBLOW_Q_HIGHPER,0.1,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBLOW_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBMEDIUM_Q_HIGHPER,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBMEDIUM_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBHIGH_Q_HIGHPER,0.1,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBHIGH_Q_USEDPER,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SCANMON_SEVR,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01SR_0_State,4,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_1_State,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_2_State,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_3_State,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_4_State,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_5_State,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_6_State,0,<class 'int'>
+IOC:LAS:CXI:BHC:01SR_7_State,0,<class 'int'>
+IOC:LAS:CXI:BHC:01:READACF,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SYSRESET,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SysReset,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:STARTTOD,11/16/2023 12:00:59,<class 'str'>
+IOC:LAS:CXI:BHC:01:ST_SCRIPT1,./st.cmd,<class 'str'>
+IOC:LAS:CXI:BHC:01:ST_SCRIPT2,,<class 'str'>
+IOC:LAS:CXI:BHC:01:KERNEL_VERS,Linux 3.10.0-1160.2.2.el7.x86_64 x86_64,<class 'str'>
+IOC:LAS:CXI:BHC:01:EPICS_VERS,EPICS R7.0.2.2-2.0.1,<class 'str'>
+IOC:LAS:CXI:BHC:01:HOSTNAME,ioc-las-cxi-srv05,<class 'str'>
+IOC:LAS:CXI:BHC:01:APP_DIR1,/reg/g/pcds/epics-dev/nagar123/ek9000/b,<class 'str'>
+IOC:LAS:CXI:BHC:01:APP_DIR2,uild/iocBoot/ioc-las-cxi-bhc-01,<class 'str'>
+IOC:LAS:CXI:BHC:01:ENGINEER,Sainyam Nagar (nagar123),<class 'str'>
+IOC:LAS:CXI:BHC:01:LOCATION,LAS TIMING ADC CXI,<class 'str'>
+IOC:LAS:CXI:BHC:01:GTIM_CUR_SRC,OS Clock,<class 'str'>
+IOC:LAS:CXI:BHC:01:GTIM_EVT_SRC,No working providers,<class 'str'>
+IOC:LAS:CXI:BHC:01:GTIM_HI_SRC,OS Clock,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_ADDR_LIST,,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_CONN_TIME,10.0,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_AUTO_ADDR,YES,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_RPTR_PORT,5065,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_SRVR_PORT,5064,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_MAX_ARRAY,4000000,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_SRCH_TIME,60.0,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_BEAC_TIME,5.0,<class 'str'>
+IOC:LAS:CXI:BHC:01:CAS_SRVR_PORT,,<class 'str'>
+IOC:LAS:CXI:BHC:01:CAS_AUTO_ADDR,,<class 'str'>
+IOC:LAS:CXI:BHC:01:CAS_ADDR_LIST,,<class 'str'>
+IOC:LAS:CXI:BHC:01:CAS_BEACON_PERIOD,5.0,<class 'str'>
+IOC:LAS:CXI:BHC:01:CAS_BEACON_PORT,,<class 'str'>
+IOC:LAS:CXI:BHC:01:CAS_ADDR_INTF_LIST,,<class 'str'>
+IOC:LAS:CXI:BHC:01:CAS_ADDR_IGNORE_LIST,,<class 'str'>
+IOC:LAS:CXI:BHC:01:TIMEZONE,PUS::480:031002:110302,<class 'str'>
+IOC:LAS:CXI:BHC:01:TS_NTP_INET,psntp.slac.stanford.edu,<class 'str'>
+IOC:LAS:CXI:BHC:01:IOC_LOG_PORT,7004,<class 'str'>
+IOC:LAS:CXI:BHC:01:IOC_LOG_INET,ctl-logsrv01.pcdsn,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVA_ADDR_LIST,,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVA_AUTO_ADDR,TRUE,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVA_BEACON_PERIOD,15.0,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVA_BROADCAST_PORT,5076,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVA_CONN_TMO,30.0,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVA_DEBUG,0,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVA_SERVER_PORT,5075,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVAS_AUTO_BEACON_ADDR_LIST,TRUE,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVAS_BEACON_ADDR_LIST,,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVAS_BEACON_PERIOD,,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVAS_BROADCAST_PORT,,<class 'str'>
+IOC:LAS:CXI:BHC:01:PVAS_SERVER_PORT,,<class 'str'>
+IOC:LAS:CXI:BHC:01:CA_CLNT_CNT,1.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:RECORD_CNT,184.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:FD_MAX,1024.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CPU_CNT,32.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SUSP_TASK_CNT,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:MEM_USED,78073856.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:MEM_MAX,67453349888.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:PROCESS_ID,19972.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:PARENT_ID,19672.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SCANONCE_Q_SIZE,1000.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CB_Q_SIZE,2000.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SCANONCE_Q_HIGH,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SCANONCE_Q_USED,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:SCANONCE_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBLOW_Q_HIGH,2.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBLOW_Q_USED,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBLOW_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBMEDIUM_Q_HIGH,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBMEDIUM_Q_USED,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBMEDIUM_Q_OVERRUNS,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBHIGH_Q_HIGH,2.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBHIGH_Q_USED,0.0,<class 'float'>
+IOC:LAS:CXI:BHC:01:CBHIGH_Q_OVERRUNS,0.0,<class 'float'>

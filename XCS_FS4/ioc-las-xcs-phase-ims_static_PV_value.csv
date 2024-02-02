@@ -1,0 +1,344 @@
+PV_name,values,py_data_type
+LAS:FS4:IOC:MMS:PH:CLUST_1_0_0,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:CLUST_1_0_1,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:CLUST_1_0_2,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:CLUST_1_0_3,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:CLUST_1_1_0,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:CLUST_1_1_1,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:CLUST_1_1_2,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:CLUST_1_1_3,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:DAT_MBUF_FREE,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:DAT_MBUF_MAX,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:FD_CNT,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:FD_MAX,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:IFI_ERR_CNT,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:IFO_ERR_CNT,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:LOAD,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:MEM_BLK_FREE,1000000000.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:MEM_FREE,1000000000.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:MEM_USED,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:RECORD_CNT,354.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:SUSP_TASK_CNT,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:SYS_MBUF_FREE,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:SYS_MBUF_MAX,0.0,<class 'float'>
+LAS:FS4:MMS:PH:CR,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:CA_UPD_TIME,15.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:FD_UPD_TIME,10.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:LOAD_UPD_TIME,20.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:MEM_UPD_TIME,10.0,<class 'float'>
+LAS:FS4:MMS:PH:SET_CR,0.0,<class 'float'>
+LAS:FS4:MMS:PH:BY,1,<class 'int'>
+LAS:FS4:MMS:PH:CM,0,<class 'int'>
+LAS:FS4:MMS:PH:DE,1,<class 'int'>
+LAS:FS4:MMS:PH:DG,1,<class 'int'>
+LAS:FS4:MMS:PH:EE,0,<class 'int'>
+LAS:FS4:MMS:PH:EF,0,<class 'int'>
+LAS:FS4:MMS:PH:I1,0,<class 'int'>
+LAS:FS4:MMS:PH:I10,0,<class 'int'>
+LAS:FS4:MMS:PH:I11,0,<class 'int'>
+LAS:FS4:MMS:PH:I12,0,<class 'int'>
+LAS:FS4:MMS:PH:I2,0,<class 'int'>
+LAS:FS4:MMS:PH:I3,0,<class 'int'>
+LAS:FS4:MMS:PH:I4,0,<class 'int'>
+LAS:FS4:MMS:PH:I6,0,<class 'int'>
+LAS:FS4:MMS:PH:I9,0,<class 'int'>
+LAS:FS4:MMS:PH:IF,0,<class 'int'>
+LAS:FS4:MMS:PH:JE,0,<class 'int'>
+LAS:FS4:MMS:PH:LK,0,<class 'int'>
+LAS:FS4:MMS:PH:MP,0,<class 'int'>
+LAS:FS4:MMS:PH:MV,0,<class 'int'>
+LAS:FS4:MMS:PH:NE,0,<class 'int'>
+LAS:FS4:MMS:PH:PM,0,<class 'int'>
+LAS:FS4:MMS:PH:PU,0,<class 'int'>
+LAS:FS4:MMS:PH:PY,1,<class 'int'>
+LAS:FS4:MMS:PH:QD,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_HOMING_MODE,0,<class 'int'>
+LAS:FS4:MMS:PH:SM,0,<class 'int'>
+LAS:FS4:MMS:PH:ST,0,<class 'int'>
+LAS:FS4:MMS:PH:VC,0,<class 'int'>
+LAS:FS4:MMS:PH:CLEAR_ER,0,<class 'int'>
+LAS:FS4:MMS:PH:CLEAR_ST,0,<class 'int'>
+LAS:FS4:MMS:PH:EXE_PG,0,<class 'int'>
+LAS:FS4:MMS:PH:SAVE,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_CM,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_DE,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_DG,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_EE,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_JE,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_LK,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_NE,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_PM,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_PU,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_PY,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_QD,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_SM,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_ZERO,0,<class 'int'>
+LAS:FS4:MMS:PH:STOP,0,<class 'int'>
+LAS:FS4:MMS:PH:TOGGLE_HC,1,<class 'int'>
+LAS:FS4:MMS:PH:ZERO_POS,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:FD_FREE,1000.0,<class 'float'>
+LAS:FS4:MMS:PH:SAVED_P,9240.815619460898,<class 'float'>
+LAS:FS4:MMS:PH:_CALC_STATUS,8.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:UpdateEvtSeq,1.0,<class 'float'>
+LAS:FS4:MMS:PH:SAVED_HC,5.0,<class 'float'>
+LAS:FS4:MMS:PH:TOGGLE_HC_ACT,0.0,<class 'float'>
+LAS:FS4:MMS:PH:Update,1.0,<class 'float'>
+LAS:FS4:MMS:PH:EMER_STOP,1.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:UpdateEvtGen,1,<class 'int'>
+LAS:FS4:MMS:PH:EE_FAN,0,<class 'int'>
+LAS:FS4:MMS:PH:ERFAN,0,<class 'int'>
+LAS:FS4:MMS:PH:PUFAN,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_ZERO_1,0,<class 'int'>
+LAS:FS4:MMS:PH:ST_FAN,0,<class 'int'>
+LAS:FS4:MMS:PH:UPDATE_ALL,0,<class 'int'>
+LAS:FS4:MMS:PH:UPDATE_ALL_1,0,<class 'int'>
+LAS:FS4:MMS:PH:UPDATE_ALL_2,0,<class 'int'>
+LAS:FS4:MMS:PH:UPDATE_ALL_3,0,<class 'int'>
+LAS:FS4:MMS:PH:UPDATE_STATUS,0,<class 'int'>
+LAS:FS4:MMS:PH:A,499000000,<class 'int'>
+LAS:FS4:MMS:PH:BD_L,96,<class 'int'>
+LAS:FS4:MMS:PH:BY_L,1,<class 'int'>
+LAS:FS4:MMS:PH:C1,-397781,<class 'int'>
+LAS:FS4:MMS:PH:C2,-60,<class 'int'>
+LAS:FS4:MMS:PH:CE_L,1,<class 'int'>
+LAS:FS4:MMS:PH:CK_L,0,<class 'int'>
+LAS:FS4:MMS:PH:CM_L,0,<class 'int'>
+LAS:FS4:MMS:PH:CW,0,<class 'int'>
+LAS:FS4:MMS:PH:D,499000000,<class 'int'>
+LAS:FS4:MMS:PH:D1,0,<class 'int'>
+LAS:FS4:MMS:PH:D10,0,<class 'int'>
+LAS:FS4:MMS:PH:D11,0,<class 'int'>
+LAS:FS4:MMS:PH:D12,0,<class 'int'>
+LAS:FS4:MMS:PH:D2,0,<class 'int'>
+LAS:FS4:MMS:PH:D3,0,<class 'int'>
+LAS:FS4:MMS:PH:D4,0,<class 'int'>
+LAS:FS4:MMS:PH:D5,0,<class 'int'>
+LAS:FS4:MMS:PH:D9,0,<class 'int'>
+LAS:FS4:MMS:PH:DB,1,<class 'int'>
+LAS:FS4:MMS:PH:DE_L,1,<class 'int'>
+LAS:FS4:MMS:PH:DG_L,1,<class 'int'>
+LAS:FS4:MMS:PH:EE_L,0,<class 'int'>
+LAS:FS4:MMS:PH:EF_L,0,<class 'int'>
+LAS:FS4:MMS:PH:EL,512,<class 'int'>
+LAS:FS4:MMS:PH:EM_L,2,<class 'int'>
+LAS:FS4:MMS:PH:ER,63,<class 'int'>
+LAS:FS4:MMS:PH:HB,74284275,<class 'int'>
+LAS:FS4:MMS:PH:HC,5,<class 'int'>
+LAS:FS4:MMS:PH:HT,500,<class 'int'>
+LAS:FS4:MMS:PH:I10_L,0,<class 'int'>
+LAS:FS4:MMS:PH:I11_L,0,<class 'int'>
+LAS:FS4:MMS:PH:I12_L,0,<class 'int'>
+LAS:FS4:MMS:PH:I1_L,0,<class 'int'>
+LAS:FS4:MMS:PH:I2_L,0,<class 'int'>
+LAS:FS4:MMS:PH:I3_L,0,<class 'int'>
+LAS:FS4:MMS:PH:I4_L,0,<class 'int'>
+LAS:FS4:MMS:PH:I5,0,<class 'int'>
+LAS:FS4:MMS:PH:I6_L,0,<class 'int'>
+LAS:FS4:MMS:PH:I9_L,0,<class 'int'>
+LAS:FS4:MMS:PH:IF_L,0,<class 'int'>
+LAS:FS4:MMS:PH:IH,0,<class 'int'>
+LAS:FS4:MMS:PH:IL,0,<class 'int'>
+LAS:FS4:MMS:PH:IN,0,<class 'int'>
+LAS:FS4:MMS:PH:IT,0,<class 'int'>
+LAS:FS4:MMS:PH:JE_L,0,<class 'int'>
+LAS:FS4:MMS:PH:LK_L,0,<class 'int'>
+LAS:FS4:MMS:PH:LM_L,1,<class 'int'>
+LAS:FS4:MMS:PH:MS,256,<class 'int'>
+LAS:FS4:MMS:PH:MT,0,<class 'int'>
+LAS:FS4:MMS:PH:NE_L,0,<class 'int'>
+LAS:FS4:MMS:PH:NS,72,<class 'int'>
+LAS:FS4:MMS:PH:P,-397781,<class 'int'>
+LAS:FS4:MMS:PH:P1,-397781,<class 'int'>
+LAS:FS4:MMS:PH:PC,0,<class 'int'>
+LAS:FS4:MMS:PH:PM_L,0,<class 'int'>
+LAS:FS4:MMS:PH:PU_L,0,<class 'int'>
+LAS:FS4:MMS:PH:PY_L,1,<class 'int'>
+LAS:FS4:MMS:PH:QD_L,0,<class 'int'>
+LAS:FS4:MMS:PH:R1,0,<class 'int'>
+LAS:FS4:MMS:PH:R2,0,<class 'int'>
+LAS:FS4:MMS:PH:R3,-397785,<class 'int'>
+LAS:FS4:MMS:PH:R4,-397777,<class 'int'>
+LAS:FS4:MMS:PH:RC,25,<class 'int'>
+LAS:FS4:MMS:PH:SAVED_RAW,-576537,<class 'int'>
+LAS:FS4:MMS:PH:SD,4,<class 'int'>
+LAS:FS4:MMS:PH:SF,15,<class 'int'>
+LAS:FS4:MMS:PH:SM_L,0,<class 'int'>
+LAS:FS4:MMS:PH:ST_L,0,<class 'int'>
+LAS:FS4:MMS:PH:TE,0,<class 'int'>
+LAS:FS4:MMS:PH:V,0,<class 'int'>
+LAS:FS4:MMS:PH:VE,4,<class 'int'>
+LAS:FS4:MMS:PH:VI,10000,<class 'int'>
+LAS:FS4:MMS:PH:VM,5000000,<class 'int'>
+LAS:FS4:MMS:PH:WT,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_0_State,4,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_1_State,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_2_State,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_3_State,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_4_State,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_5_State,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_6_State,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_7_State,0,<class 'int'>
+LAS:FS4:MMS:PH:MA,0,<class 'int'>
+LAS:FS4:MMS:PH:MR,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_A,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_C1,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_C2,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_CW,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D1,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D10,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D11,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D12,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D2,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D3,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D4,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D5,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_D9,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_DB,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_EL,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_HC,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_HT,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_MS,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_MT,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_P,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_R1,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_R2,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_R3,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_R4,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_RC,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_SF,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_TE,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_VI,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_VM,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_WT,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_ZERO_2,1,<class 'int'>
+LAS:FS4:MMS:PH:SET_ZERO_3,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_ZERO_4,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_ZERO_5,1,<class 'int'>
+LAS:FS4:MMS:PH:SET_ZERO_6,0,<class 'int'>
+LAS:FS4:MMS:PH:SL,0,<class 'int'>
+LAS:FS4:MMS:PH:BD,96,<class 'int'>
+LAS:FS4:MMS:PH:CE,1,<class 'int'>
+LAS:FS4:MMS:PH:CK,0,<class 'int'>
+LAS:FS4:MMS:PH:EM,2,<class 'int'>
+LAS:FS4:MMS:PH:ES,0,<class 'int'>
+LAS:FS4:MMS:PH:FC,0,<class 'int'>
+LAS:FS4:MMS:PH:FM,0,<class 'int'>
+LAS:FS4:MMS:PH:LM,1,<class 'int'>
+LAS:FS4:MMS:PH:STATUS,8,<class 'int'>
+LAS:FS4:IOC:MMS:PH:ACCESS,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_0_Status,2,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_1_Status,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_2_Status,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_3_Status,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_4_Status,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_5_Status,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_6_Status,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_7_Status,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_rebootStatus,2,<class 'int'>
+LAS:FS4:IOC:MMS:PH:SR_status,2,<class 'int'>
+LAS:FS4:IOC:MMS:PHACCESS,0,<class 'int'>
+LAS:FS4:IOC:MMS:PHFBCK,2,<class 'int'>
+LAS:FS4:MMS:PH:HI,0,<class 'int'>
+LAS:FS4:MMS:PH:HM,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_BD,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_CE,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_CK,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_EM,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_ES,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_FC,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_FM,0,<class 'int'>
+LAS:FS4:MMS:PH:SET_LM,0,<class 'int'>
+LAS:FS4:MMS:PH:RUN_PG,0,<class 'int'>
+LAS:FS4:IOC:MMS:PH:APP_DIR1,/reg/g/pcds/epics-dev/cpino/ioc/las/ims,<class 'str'>
+LAS:FS4:IOC:MMS:PH:APP_DIR2,/R0.4.0,<class 'str'>
+LAS:FS4:IOC:MMS:PH:BOOTLINE1,<Unimplemented>,<class 'str'>
+LAS:FS4:IOC:MMS:PH:BOOTLINE2,,<class 'str'>
+LAS:FS4:IOC:MMS:PH:BOOTLINE3,,<class 'str'>
+LAS:FS4:IOC:MMS:PH:BOOTLINE4,,<class 'str'>
+LAS:FS4:IOC:MMS:PH:BOOTLINE5,,<class 'str'>
+LAS:FS4:IOC:MMS:PH:BOOTLINE6,,<class 'str'>
+LAS:FS4:IOC:MMS:PH:BSP_REV,<Unimplemented>,<class 'str'>
+LAS:FS4:IOC:MMS:PH:EPICS_VERS,EPICS R3.14.12.2-0.1.0 $Date: Mon 2011-,<class 'str'>
+LAS:FS4:IOC:MMS:PH:HOSTNAME,ioc-las-xcs-srv04,<class 'str'>
+LAS:FS4:IOC:MMS:PH:KERNEL_VERS,<Unimplemented>,<class 'str'>
+LAS:FS4:IOC:MMS:PH:STARTTOD,07/11/2023 18:28:13,<class 'str'>
+LAS:FS4:IOC:MMS:PH:ST_SCRIPT1,var startup not found,<class 'str'>
+LAS:FS4:IOC:MMS:PH:ST_SCRIPT2,var st not found,<class 'str'>
+LAS:FS4:MMS:PH:BP,,<class 'str'>
+LAS:FS4:MMS:PH:CUSTOM,,<class 'str'>
+LAS:FS4:MMS:PH:DN,"""1""",<class 'str'>
+LAS:FS4:MMS:PH:MD,MA,<class 'str'>
+LAS:FS4:MMS:PH:PN,MDI3CRL14A4-EQ,<class 'str'>
+LAS:FS4:MMS:PH:S1,"0, 0, 0",<class 'str'>
+LAS:FS4:MMS:PH:S10,,<class 'str'>
+LAS:FS4:MMS:PH:S11,,<class 'str'>
+LAS:FS4:MMS:PH:S12,,<class 'str'>
+LAS:FS4:MMS:PH:S13,,<class 'str'>
+LAS:FS4:MMS:PH:S2,"0, 0, 0",<class 'str'>
+LAS:FS4:MMS:PH:S3,"0, 0, 0",<class 'str'>
+LAS:FS4:MMS:PH:S4,"0, 0, 0",<class 'str'>
+LAS:FS4:MMS:PH:S5,,<class 'str'>
+LAS:FS4:MMS:PH:S7,,<class 'str'>
+LAS:FS4:MMS:PH:S8,,<class 'str'>
+LAS:FS4:MMS:PH:S9,,<class 'str'>
+LAS:FS4:MMS:PH:SAVED_TS,Oct 02 09:31:15 2023,<class 'str'>
+LAS:FS4:MMS:PH:SN,252130189,<class 'str'>
+LAS:FS4:MMS:PH:TC,,<class 'str'>
+LAS:FS4:MMS:PH:TI,,<class 'str'>
+LAS:FS4:MMS:PH:TP,,<class 'str'>
+LAS:FS4:MMS:PH:TR,,<class 'str'>
+LAS:FS4:MMS:PH:TT,,<class 'str'>
+LAS:FS4:MMS:PH:VR,3.014,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_0_Name,ioc-las-xcs-phase-ims,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_0_StatusStr,32 values not saved,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_0_Time,Mon Oct 02 09:31:08,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_1_Name,Not In Use,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_1_StatusStr,Status unknown,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_1_Time,Not yet saved,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_2_Name,Not In Use,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_2_StatusStr,Status unknown,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_2_Time,Not yet saved,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_3_Name,Not In Use,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_3_StatusStr,Status unknown,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_3_Time,Not yet saved,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_4_Name,Not In Use,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_4_StatusStr,Status unknown,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_4_Time,Not yet saved,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_5_Name,Not In Use,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_5_StatusStr,Status unknown,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_5_Time,Not yet saved,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_6_Name,Not In Use,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_6_StatusStr,Status unknown,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_6_Time,Not yet saved,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_7_Name,Not In Use,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_7_StatusStr,Status unknown,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_7_Time,Not yet saved,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_rebootStatusStr,.sav file contained an error message,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_rebootTime,Tue Jul 11 06:28:13,<class 'str'>
+LAS:FS4:IOC:MMS:PH:SR_statusStr,32 values not saved,<class 'str'>
+LAS:FS4:MMS:PH:FW_MEANS,+,<class 'str'>
+LAS:FS4:MMS:PH:MODEL,NA,<class 'str'>
+LAS:FS4:MMS:PH:REV_MEANS,-,<class 'str'>
+LAS:FS4:MMS:PH:SET_BP,,<class 'str'>
+LAS:FS4:MMS:PH:SET_DN,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S1,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S10,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S11,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S12,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S13,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S2,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S3,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S4,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S5,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S7,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S8,,<class 'str'>
+LAS:FS4:MMS:PH:SET_S9,,<class 'str'>
+LAS:FS4:MMS:PH:SET_TC,,<class 'str'>
+LAS:FS4:MMS:PH:SET_TI,,<class 'str'>
+LAS:FS4:MMS:PH:SET_TP,,<class 'str'>
+LAS:FS4:MMS:PH:SET_TR,,<class 'str'>
+LAS:FS4:MMS:PH:SET_TT,,<class 'str'>
+LAS:FS4:IOC:MMS:PH:READACF,0.0,<class 'float'>
+LAS:FS4:IOC:MMS:PH:SYSRESET,0.0,<class 'float'>
+LAS:FS4:MMS:PH,9240.818779557501,<class 'float'>

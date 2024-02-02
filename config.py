@@ -52,7 +52,7 @@ def find_static(list1: int, list2: int, PV: dict, pvlist_new: str, folder: str, 
     if df1.shape == df2.shape:
         static_PV_value = df1[df1["values"] == df2["values"]]
         PV['static_PV_value'] = pd.DataFrame(static_PV_value).reset_index(drop=True)
-        #static_PV_value.to_csv(folder + "temp/" + ioc + '_static_PV_value.csv', index=False)
+        static_PV_value.to_csv(folder + "temp/" + ioc + '_static_PV_value.csv', index=False)
         
     new_pvlist = static_PV_value['PV_name']
     new_pvlist.to_csv(pvlist_new, header=False, index=False)
