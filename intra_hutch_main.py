@@ -50,16 +50,17 @@ pv_lists_path = folder + "temp/" + "pv_lists/"
 
 subprocess.run(["mkdir", "-p", pv_lists_path])
 
-# total_iterations = int(input("Enter total iterations of random sampling: "))
-# interval = float(input("Enter max interval of each iteration in seconds: "))
-
-
 
 
 ### Run through all the IOCs of a hutch and configure the JSON file.
 with open(ioc_path, 'r') as readtxt:
+
     ioc_list = [line.strip() for line in readtxt.readlines()]
-    print("Estimated wait time: " + str(int(len(ioc_list) * args.total_iterations * (args.interval/2) / 60 + 2)) + " minutes.")
+    
+    wait_time = int(len(ioc_list) * args.total_iterations * (args.interval/2) / 60 + 2)
+    
+    print("Estimated wait time: " + str(wait_time) + " minutes.")
+    
     for ioc in ioc_list:
         #print("Getting .pvlist file from " + ioc)
         subprocess.run(["cp", "/cds/data/iocData/"+ ioc +"/iocInfo/IOC.pvlist", pv_lists_path + ioc +"_IOC.pvlist"])
