@@ -37,49 +37,61 @@ source /reg/g/pcds/engineering_tools/latest-released/scripts/pcds_conda
 ```
 
 2. Generating the .json config file
-The config file is a .json file that contains the PVs specific to the hutch. 
-To generate the file, run the following command:
+The config file is a .json file that contains the PVs specific to the hutch.
+
+Before running the script, run this command to see the help information about usage:
 
 ```
-python intra-hutch_main.py
+python intra_hutch_main.py -h
+```
+![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/1779cff7-0967-472d-a8f2-ec8c6e1145c1)
+
+
+**To generate the configuration JSON file, run the following command:**
+
+```
+ssh las-console
+cd ATEF_timing_config
+python intra_hutch_main.py [-h] hutch_code [total_iterations] [interval]
 ```
 
-- Enter the number corresponding to the hutch.
-- Enter the total number of iterations.
+- Enter the hutch_code corresponding to the hutch.
+- (optional)Enter the total number of iterations.
    - This value refers to the number of iterations that the PVs are sampled.
-   - We have been using 10 as a value that yields sufficient config file results. A number must be entered.
-- Enter the max interval for each iteration.
-   - This value refers to the maximum amount of time where the PV is sampled. (default:5). The unit for this value is in seconds. 
-    
-![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/b16377cd-ffe9-480c-9d87-5029678773c4)
+   - We have been using 5 as a value that yields sufficient config file results. (default:5)
+- (optional)Enter the max interval for each iteration.
+   - This value refers to the maximum amount of time where the PV is sampled. (default:5). The unit for this value is in seconds.
 
-3. Following the prompts, a time estimation on the generation of the config file will be displayed along with a progress bar.
-screenshots of the time est. and progress:
 
-![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/0b47c125-cad7-4f69-9bd6-c626638614f7)
+Following the prompts, a time estimation on the generation of the config file will be displayed along with a progress bar.
+An example run on MFX4.5:
+
+![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/2f8464a0-f133-410b-9702-533310a33e38)
+
 
 4. Running a config file through ATEF
-To run the config file through atef, use the following command replacing "/cds/home/r/rj1/atef/timing_config/NEH_FS14/NEH_FS14.json" with the desired .json file: 
+To run the config file through atef, use the following command. The JSON file you just generated is located in the folder named by your target hutch name. For example, MFX_FS4.5/. The name of the .json file starts with the date you generated the file. For example, 20240202.
 
 ```
-python -m atef --log DEBUG check /cds/home/r/rj1/atef/timing_config/NEH_FS14/NEH_FS14.json
+python -m atef --log DEBUG check "LOCATION OF THE JSON FILE"
 ```
 
 5. Interpreting the Output
-The output will show a subset of PVs which have a current value that is different from that which was captured in the config file. 
+
+The output tells you the discrepancy of the specific PVs within an IOC of a hutch between a previous ATEF run (when the config file was generated) and now.
+How to interpret the results:
+  1. Hutch name
+  2. IOC name
+  3. PV name and the value recorded **last time** (after "equal to")
+  4. PV name and the value recorded **this time** (after "value of")
 Screenshot of the output:
 
 ![image](https://github.com/slaclab/ATEF_timing_config/assets/141056563/ac832bf2-0a04-4cd0-be39-6e66b26c085a)
 
-How to interpret the results:
-
-  1. Hutch name
-  2. IOC name
-  3. PV name and the value recorded last time (after "equal to")
-  4. PV name and the value recorded this time (after "value of")
 
 
-The output tells you the discrepancy of the specific PVs within an IOC of a hutch between a previous ATEF run (when the config file was generated) and now.
+The output will show a subset of PVs which have a current value that is different from that which was captured in the config file. 
+
 
 
 
